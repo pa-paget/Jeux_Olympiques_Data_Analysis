@@ -1,0 +1,48 @@
+import pandas as pd
+import requests
+from bs4 import BeautifulSoup
+from io import StringIO
+
+url = 'https://en.wikipedia.org/wiki/List_of_stripped_Olympic_medals'
+headers = {'User-Agent': 'Mozilla/5.0'}
+
+try:
+    print("Extraction du tableau par sport...")
+    response = requests.get(url, headers=headers)
+    soup = BeautifulSoup(response.text, 'html.parser')
+
+    # "Medals stripped by sport"
+    target_table = None
+    for table in soup.find_all('table', {'class': 'wikitable'}):
+        if "Sport" in table.get_text() and "Total" in table.get_text():
+            target_table = table
+            break
+
+    if target_table:
+        # Remplacer les images des médailles par du texte dans les en-têtes 
+        headers_html = target_table.find_all('th')
+        for th in headers_html:
+            img = th.find('img')
+            if img:
+                alt = img.get('alt', '')
+                if "1" in alt: th.string = "Gold"
+                elif "2" in alt: th.string = "Silver"
+                elif "3" in alt: th.string = "Bronze"
+
+        df_sport = pd.read_html(StringIO(str(target_table)), header=1)[0]
+
+        df_sport.columns = [str(c).strip() for c in df_sport.columns]
+        
+        df_sport = df_sport.dropna(subset=['Sport'])
+
+        # Exportation vers CSV
+        output_file = '../../data/data_raw/Olympic_Stripped_Medals_Sport.csv'
+        df_sport.to_csv(output_file, index=False, encoding='utf-8-sig')
+        
+        print(f"Fichier '{output_file}' généré ")
+        print(df_sport.head(10)) 
+    else:
+        print("Tableau 'Sport' non trouvé.")
+
+except Exception as e:
+    print(f"Erreur : {e}")

@@ -1,0 +1,20 @@
+# --- ANALYSE ET TRAITEMENT DE DONNÉES ---
+# Utilisé pour le nettoyage, la création des clés sport_event et les valeurs calculées.
+pandas
+numpy
+
+# --- WEB SCRAPING ---
+# Utilisé dans Flags.py et Stripped_medals_by_athlete.py pour récupérer les données Wikipédia.
+requests
+beautifulsoup4
+
+# --- VISUALISATION ET EDA ---
+# Utilisé pour mes analyses de corrélation et l'évolution du genre avant le passage sur Power BI.
+matplotlib
+seaborn
+
+# --- INTEROPÉRABILITÉ ET FORMATS DE FICHIERS ---
+# Pour la lecture et l'écriture des fichiers Excel (.xlsx) lors du nettoyage.
+openpyxl
+# Moteur de parsing recommandé pour accélérer BeautifulSoup et Pandas.
+lxml

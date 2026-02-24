@@ -1,0 +1,64 @@
+edition,edition_id,edition_url,year,city,country_flag_url,country_noc,season
+1896 Summer Olympics,1,/editions/1,1896,Athina,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GRE.png,GRE,Summer
+1900 Summer Olympics,2,/editions/2,1900,Paris,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Summer
+1904 Summer Olympics,3,/editions/3,1904,St. Louis,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Summer
+1908 Summer Olympics,5,/editions/5,1908,London,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.png,GBR,Summer
+1912 Summer Olympics,6,/editions/6,1912,Stockholm,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SWE.png,SWE,Summer
+1916 Summer Olympics,50,/editions/50,1916,Berlin,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER,Summer
+1920 Summer Olympics,7,/editions/7,1920,Antwerpen,https://olympedia-flags.s3.eu-central-1.amazonaws.com/BEL.png,BEL,Summer
+1924 Summer Olympics,8,/editions/8,1924,Paris,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Summer
+1928 Summer Olympics,9,/editions/9,1928,Amsterdam,https://olympedia-flags.s3.eu-central-1.amazonaws.com/NED.png,NED,Summer
+1932 Summer Olympics,10,/editions/10,1932,Los Angeles,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Summer
+1936 Summer Olympics,11,/editions/11,1936,Berlin,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER,Summer
+1940 Summer Olympics,51,/editions/51,1940,Helsinki,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FIN.png,FIN,Summer
+1944 Summer Olympics,52,/editions/52,1944,London,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.png,GBR,Summer
+1948 Summer Olympics,12,/editions/12,1948,London,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.png,GBR,Summer
+1952 Summer Olympics,13,/editions/13,1952,Helsinki,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FIN.png,FIN,Summer
+1956 Summer Olympics,14,/editions/14,1956,Melbourne,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.png,AUS,Summer
+1960 Summer Olympics,15,/editions/15,1960,Roma,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,Summer
+1964 Summer Olympics,16,/editions/16,1964,Tokyo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN,Summer
+1968 Summer Olympics,17,/editions/17,1968,Ciudad de México,https://olympedia-flags.s3.eu-central-1.amazonaws.com/MEX.png,MEX,Summer
+1972 Summer Olympics,18,/editions/18,1972,München,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRG.png,FRG,Summer
+1976 Summer Olympics,19,/editions/19,1976,Montréal,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.png,CAN,Summer
+1980 Summer Olympics,20,/editions/20,1980,Moskva,https://olympedia-flags.s3.eu-central-1.amazonaws.com/URS.png,URS,Summer
+1984 Summer Olympics,21,/editions/21,1984,Los Angeles,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Summer
+1988 Summer Olympics,22,/editions/22,1988,Seoul,https://olympedia-flags.s3.eu-central-1.amazonaws.com/KOR.png,KOR,Summer
+1992 Summer Olympics,23,/editions/23,1992,Barcelona,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ESP.png,ESP,Summer
+1996 Summer Olympics,24,/editions/24,1996,Atlanta,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Summer
+2000 Summer Olympics,25,/editions/25,2000,Sydney,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.png,AUS,Summer
+2004 Summer Olympics,26,/editions/26,2004,Athina,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GRE.png,GRE,Summer
+2008 Summer Olympics,53,/editions/53,2008,Beijing,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CHN.png,CHN,Summer
+2012 Summer Olympics,54,/editions/54,2012,London,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GBR.png,GBR,Summer
+2016 Summer Olympics,59,/editions/59,2016,Rio de Janeiro,https://olympedia-flags.s3.eu-central-1.amazonaws.com/BRA.png,BRA,Summer
+2020 Summer Olympics,61,/editions/61,2020,Tokyo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN,Summer
+2024 Summer Olympics,63,/editions/63,2024,Paris,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Summer
+2028 Summer Olympics,64,/editions/64,2028,Los Angeles,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Summer
+2032 Summer Olympics,372,/editions/372,2032,Brisbane,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUS.png,AUS,Summer
+1924 Winter Olympics,29,/editions/29,1924,Chamonix,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Winter
+1928 Winter Olympics,30,/editions/30,1928,Sankt Moritz,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SUI.png,SUI,Winter
+1932 Winter Olympics,31,/editions/31,1932,Lake Placid,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Winter
+1936 Winter Olympics,32,/editions/32,1936,Garmisch-Partenkirchen,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER,Winter
+1940 Winter Olympics,55,/editions/55,1940,Garmisch-Partenkirchen,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GER.png,GER,Winter
+1944 Winter Olympics,56,/editions/56,1944,Cortina d'Ampezzo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,Winter
+1948 Winter Olympics,33,/editions/33,1948,Sankt Moritz,https://olympedia-flags.s3.eu-central-1.amazonaws.com/SUI.png,SUI,Winter
+1952 Winter Olympics,34,/editions/34,1952,Oslo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.png,NOR,Winter
+1956 Winter Olympics,35,/editions/35,1956,Cortina d'Ampezzo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,Winter
+1960 Winter Olympics,36,/editions/36,1960,Squaw Valley,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Winter
+1964 Winter Olympics,37,/editions/37,1964,Innsbruck,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUT.png,AUT,Winter
+1968 Winter Olympics,38,/editions/38,1968,Grenoble,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Winter
+1972 Winter Olympics,39,/editions/39,1972,Sapporo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN,Winter
+1976 Winter Olympics,40,/editions/40,1976,Innsbruck,https://olympedia-flags.s3.eu-central-1.amazonaws.com/AUT.png,AUT,Winter
+1980 Winter Olympics,41,/editions/41,1980,Lake Placid,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Winter
+1984 Winter Olympics,42,/editions/42,1984,Sarajevo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/YUG.png,YUG,Winter
+1988 Winter Olympics,43,/editions/43,1988,Calgary,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.png,CAN,Winter
+1992 Winter Olympics,44,/editions/44,1992,Albertville,https://olympedia-flags.s3.eu-central-1.amazonaws.com/FRA.png,FRA,Winter
+1994 Winter Olympics,45,/editions/45,1994,Lillehammer,https://olympedia-flags.s3.eu-central-1.amazonaws.com/NOR.png,NOR,Winter
+1998 Winter Olympics,46,/editions/46,1998,Nagano,https://olympedia-flags.s3.eu-central-1.amazonaws.com/JPN.png,JPN,Winter
+2002 Winter Olympics,47,/editions/47,2002,Salt Lake City,https://olympedia-flags.s3.eu-central-1.amazonaws.com/USA.png,USA,Winter
+2006 Winter Olympics,49,/editions/49,2006,Torino,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,Winter
+2010 Winter Olympics,57,/editions/57,2010,Vancouver,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CAN.png,CAN,Winter
+2014 Winter Olympics,58,/editions/58,2014,Sochi,https://olympedia-flags.s3.eu-central-1.amazonaws.com/RUS.png,RUS,Winter
+2018 Winter Olympics,60,/editions/60,2018,PyeongChang,https://olympedia-flags.s3.eu-central-1.amazonaws.com/KOR.png,KOR,Winter
+2022 Winter Olympics,62,/editions/62,2022,Beijing,https://olympedia-flags.s3.eu-central-1.amazonaws.com/CHN.png,CHN,Winter
+2026 Winter Olympics,72,/editions/72,2026,Milano-Cortina d'Ampezzo,https://olympedia-flags.s3.eu-central-1.amazonaws.com/ITA.png,ITA,Winter
+1906 Intercalated,4,/editions/4,1906,Athina,https://olympedia-flags.s3.eu-central-1.amazonaws.com/GRE.png,GRE,Other

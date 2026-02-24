@@ -1,0 +1,167 @@
+dopage_id,edition,athlete,country,medal,event,sport,sex
+1,1904 Summer Olympics,Jack Egan,United States,Silver,"Boxing, Men's Lightweight (Z)",Boxing,Male
+2,1904 Summer Olympics,Jack Egan,United States,Bronze,"Boxing, Men's Welterweight (Z)",Boxing,Male
+3,1948 Summer Olympics,Equestrian team ( Gehnäll Persson ),Sweden,Gold,"Equestrian, Team dressage (Z)",Equestrian,Mixed
+4,1968 Summer Olympics,Modern Pentathlon team ( Hans-Gunnar Liljenwall ),Sweden,Bronze,"Modern pentathlon, Team",Modern pentathlon,Mixed
+5,1972 Summer Olympics,Bakhvain Buyadaa,Mongolia,Silver,"Judo, Men's 63 kg (X)",Judo,Male
+6,1972 Summer Olympics,Cycling team ( Aad van den Hoek ),Netherlands,Bronze,"Cycling, Men's team time trial (X)",Cycling,Male
+7,1972 Summer Olympics,Jaime Huélamo,Spain,Bronze,"Cycling, Men's individual road race (X)",Cycling,Male
+8,1972 Summer Olympics,Rick DeMont,United States,Gold,"Swimming, Men's 400 m freestyle",Swimming,Male
+9,1976 Winter Olympics,Galina Kulakova,Soviet Union,Bronze,"Cross-Country Skiing, Women's 5 km",Cross-Country Skiing,Female
+10,1976 Summer Olympics,Valentin Khristov,Bulgaria,Gold,"Weightlifting, Men's 110 kg",Weightlifting,Male
+11,1976 Summer Olympics,Blagoy Blagoev,Bulgaria,Silver,"Weightlifting, Men's 82.5 kg",Weightlifting,Male
+12,1976 Summer Olympics,Zbigniew Kaczmarek,Poland,Gold,"Weightlifting, Men's 67.5 kg",Weightlifting,Male
+13,1984 Summer Olympics,Martti Vainio,Finland,Silver,"Athletics, Men's 10,000 m",Athletics,Male
+14,1984 Summer Olympics,Tomas Johansson,Sweden,Silver,"Wrestling, Men's Greco-Roman +100 kg",Wrestling,Male
+15,1988 Summer Olympics,Mitko Grablev,Bulgaria,Gold,"Weightlifting, Men's 56 kg",Weightlifting,Male
+16,1988 Summer Olympics,Angel Guenchev,Bulgaria,Gold,"Weightlifting, Men's 67.5 kg",Weightlifting,Male
+17,1988 Summer Olympics,Ben Johnson,Canada,Gold,"Athletics, Men's 100 m",Athletics,Male
+18,1988 Summer Olympics,Andor Szanyi,Hungary,Silver,"Weightlifting, Men's 100 kg",Weightlifting,Male
+19,1988 Summer Olympics,Kerrith Brown,Great Britain,Bronze,"Judo, Men's 71 kg",Judo,Male
+20,1992 Summer Olympics,Ibragim Samadov,Unified Team,Bronze,"Weightlifting, Men's 82.5 kg (X, Z)",Weightlifting,Male
+21,2000 Summer Olympics,Ashot Danielyan,Armenia,Bronze,"Weightlifting, Men's +105 kg",Weightlifting,Male
+22,2000 Summer Olympics,Izabela Dragneva,Bulgaria,Gold,"Weightlifting, Women's 48 kg",Weightlifting,Female
+23,2000 Summer Olympics,Ivan Ivanov,Bulgaria,Silver,"Weightlifting, Men's 56 kg",Weightlifting,Male
+24,2000 Summer Olympics,Sevdalin Minchev,Bulgaria,Bronze,"Weightlifting, Men's 62 kg",Weightlifting,Male
+25,2000 Summer Olympics,Gymnastics team ( Dong Fangxiao ),People's Republic of China,Bronze,"Gymnastics, Women's artistic team all-around (Z)",Gymnastics,Female
+26,2000 Summer Olympics,Alexander Leipold,Germany,Gold,"Wrestling, Men's freestyle 76 kg",Wrestling,Male
+27,2000 Summer Olympics,Andreea Răducan,Romania,Gold,"Gymnastics, Women's artistic individual all-around",Gymnastics,Female
+28,2000 Summer Olympics,Marion Jones,United States,Gold,"Athletics, Women's 100 m (X)",Athletics,Female
+29,2000 Summer Olympics,Marion Jones,United States,Gold,"Athletics, Women's 200 m",Athletics,Female
+30,2000 Summer Olympics,Marion Jones,United States,Gold,"Athletics, Women's 4 × 400 metres relay",Athletics,Female
+31,2000 Summer Olympics,Marion Jones,United States,Bronze,"Athletics, Women's 4 × 100 metres relay",Athletics,Female
+32,2000 Summer Olympics,Marion Jones,United States,Bronze,"Athletics, Women's long jump",Athletics,Female
+33,2000 Summer Olympics,"Relay team ( Antonio Pettigrew , Jerome Young )",United States,Gold,"Athletics, Men's 4 × 400 m relay",Athletics,Male
+34,2000 Summer Olympics,Lance Armstrong,United States,Bronze,"Cycling, Men's road time trial (X)",Cycling,Male
+35,2002 Winter Olympics,Alain Baxter,Great Britain,Bronze,"Alpine Skiing, Men's slalom",Alpine Skiing,Male
+36,2002 Winter Olympics,Olga Danilova,Russian Federation,Gold,"Cross-Country Skiing, Women's 5 km + 5 km combined pursuit",Cross-Country Skiing,Female
+37,2002 Winter Olympics,Olga Danilova,Russian Federation,Silver,"Cross-Country Skiing, Women's 10 km classical",Cross-Country Skiing,Female
+38,2002 Winter Olympics,Larisa Lazutina,Russian Federation,Gold,"Cross-Country Skiing, Women's 30 km classical",Cross-Country Skiing,Female
+39,2002 Winter Olympics,Larisa Lazutina,Russian Federation,Silver,"Cross-Country Skiing, Women's 15 km freestyle mass start",Cross-Country Skiing,Female
+40,2002 Winter Olympics,Larisa Lazutina,Russian Federation,Silver,"Cross-Country Skiing, Women's 5 km + 5 km combined pursuit",Cross-Country Skiing,Female
+41,2002 Winter Olympics,Johann Mühlegg,Spain,Gold,"Cross-Country Skiing, Men's 50 km classical",Cross-Country Skiing,Male
+42,2002 Winter Olympics,Johann Mühlegg,Spain,Gold,"Cross-Country Skiing, Men's 30 km freestyle",Cross-Country Skiing,Male
+43,2002 Winter Olympics,Johann Mühlegg,Spain,Gold,"Cross-Country Skiing, Men's 10 km + 10 km combined pursuit",Cross-Country Skiing,Male
+44,2004 Summer Olympics,Ivan Tsikhan,Belarus,Silver,"Athletics, Men's hammer throw (X) – 2 medals not awarded",Athletics,Male
+45,2004 Summer Olympics,Iryna Yatchenko,Belarus,Bronze,"Athletics, Women's discus throw",Athletics,Female
+46,2004 Summer Olympics,"Equestrian team  (Goldfever horse, Ludger Beerbaum rider)",Germany,Gold,"Equestrian, Team show jumping",Equestrian,Mixed
+47,2004 Summer Olympics,Leonidas Sabanis,Greece,Bronze,"Weightlifting, Men's 62 kg",Weightlifting,Male
+48,2004 Summer Olympics,Adrián Annus,Hungary,Gold,"Athletics, Men's hammer throw",Athletics,Male
+49,2004 Summer Olympics,Róbert Fazekas,Hungary,Gold,"Athletics, Men's discus throw",Athletics,Male
+50,2004 Summer Olympics,Ferenc Gyurkovics,Hungary,Silver,"Weightlifting, Men's 105 kg",Weightlifting,Male
+51,2004 Summer Olympics,"Waterford Crystal (horse, Cian O'Connor rider)",Ireland,Gold,"Equestrian, Individual show jumping",Equestrian,Mixed
+52,2004 Summer Olympics,Irina Korzhanenko,Russian Federation,Gold,"Athletics, Women's shot put",Athletics,Female
+53,2004 Summer Olympics,Svetlana Krivelyova,Russian Federation,Bronze,"Athletics, Women's shot put (X)",Athletics,Female
+54,2004 Summer Olympics,Oleg Perepetchenov,Russian Federation,Bronze,"Weightlifting, Men's 77 kg",Weightlifting,Male
+55,2004 Summer Olympics,Yuriy Bilonoh,Ukraine,Gold,"Athletics, Men's shot put",Athletics,Male
+56,2004 Summer Olympics,Rowing team ( Olena Olefirenko ),Ukraine,Bronze,"Rowing, Women's quadruple sculls",Rowing,Female
+57,2004 Summer Olympics,Tyler Hamilton,United States,Gold,"Cycling, Men's road time trial",Cycling,Male
+58,2006 Winter Olympics,Olga Pyleva,Russian Federation,Silver,"Biathlon, Women's individual",Biathlon,Female
+59,2008 Summer Olympics,Tigran Gevorg Martirosyan,Armenia,Bronze,"Weightlifting, Men's 69 kg",Weightlifting,Male
+60,2008 Summer Olympics,Vitaliy Rahimov,Azerbaijan,Silver,"Wrestling, Men's Greco-Roman 60 kg",Wrestling,Male
+61,2008 Summer Olympics,Rashid Ramzi,Bahrain,Gold,"Athletics, Men's 1500 m",Athletics,Male
+62,2008 Summer Olympics,Aksana Miankova,Belarus,Gold,"Athletics, Women's hammer throw",Athletics,Female
+63,2008 Summer Olympics,Natallia Mikhnevich,Belarus,Silver,"Athletics, Women's shot put",Athletics,Female
+64,2008 Summer Olympics,Andrei Rybakou,Belarus,Silver,"Weightlifting, Men's 85 kg",Weightlifting,Male
+65,2008 Summer Olympics,Andrei Mikhnevich,Belarus,Bronze,"Athletics, Men's shot put",Athletics,Male
+66,2008 Summer Olympics,Nastassia Novikava,Belarus,Bronze,"Weightlifting, Women's 53 kg",Weightlifting,Female
+67,2008 Summer Olympics,Nadzeya Ostapchuk,Belarus,Bronze,"Athletics, Women's shot put",Athletics,Female
+68,2008 Summer Olympics,Liu Chunhong,People's Republic of China,Gold,"Weightlifting, Women's 69 kg",Weightlifting,Female
+69,2008 Summer Olympics,Cao Lei,People's Republic of China,Gold,"Weightlifting, Women's 75 kg",Weightlifting,Female
+70,2008 Summer Olympics,Chen Xiexia,People's Republic of China,Gold,"Weightlifting, Women's 48 kg",Weightlifting,Female
+71,2008 Summer Olympics,Yarelys Barrios,Cuba,Silver,"Athletics, Women's discus throw",Athletics,Female
+72,2008 Summer Olympics,Hrysopiyi Devetzi,Greece,Bronze,"Athletics, Women's triple jump",Athletics,Female
+73,2008 Summer Olympics,Davide Rebellin,Italy,Silver,"Cycling, Men's road race",Cycling,Male
+74,2008 Summer Olympics,Relay team ( Nesta Carter ),Jamaica,Gold,"Athletics, Men's 4 × 100 m relay",Athletics,Male
+75,2008 Summer Olympics,Ilya Ilyin,Kazakhstan,Gold,"Weightlifting, Men's 94 kg",Weightlifting,Male
+76,2008 Summer Olympics,Irina Nekrassova,Kazakhstan,Silver,"Weightlifting, Women's 63 kg",Weightlifting,Female
+77,2008 Summer Olympics,Taimuraz Tigiyev,Kazakhstan,Silver,"Wrestling, Men's freestyle 96 kg",Wrestling,Male
+78,2008 Summer Olympics,Mariya Grabovetskaya,Kazakhstan,Bronze,"Weightlifting, Women's +75 kg",Weightlifting,Female
+79,2008 Summer Olympics,Asset Mambetov,Kazakhstan,Bronze,"Wrestling, Men's Greco-Roman 96 kg",Wrestling,Male
+80,2008 Summer Olympics,Kim Jong-su,Korea Team,Silver,"Shooting, Men's 50 m air pistol",Shooting,Male
+81,2008 Summer Olympics,Kim Jong-su,Korea Team,Bronze,"Shooting, Men's 10 m air pistol",Shooting,Male
+82,2008 Summer Olympics,"Equestrian team  (Camiro horse, Tony André Hansen rider)",Norway,Bronze,"Equestrian, team show jumping",Equestrian,Mixed
+83,2008 Summer Olympics,Relay team ( Yuliya Chermoshanskaya ),Russian Federation,Gold,"Athletics, Women's 4 × 100 m relay",Athletics,Female
+84,2008 Summer Olympics,Maria Abakumova,Russian Federation,Silver,"Athletics, Women's javelin throw",Athletics,Female
+85,2008 Summer Olympics,Khasan Baroev,Russian Federation,Silver,"Wrestling, Men's Greco-Roman 120 kg",Wrestling,Male
+86,2008 Summer Olympics,Tatyana Lebedeva,Russian Federation,Silver,"Athletics, Women's triple jump",Athletics,Female
+87,2008 Summer Olympics,Tatyana Lebedeva,Russian Federation,Silver,"Athletics, Women's long jump",Athletics,Female
+88,2008 Summer Olympics,"Relay team ( Anastasiya Kapachinskaya , Tatyana Firova )",Russian Federation,Silver,"Athletics, Women's 4 × 400 m relay",Athletics,Female
+89,2008 Summer Olympics,Marina Shainova,Russian Federation,Silver,"Weightlifting, Women's 58 kg",Weightlifting,Female
+90,2008 Summer Olympics,Khadzhimurat Akkaev,Russian Federation,Bronze,"Weightlifting, Men's 94 kg",Weightlifting,Male
+91,2008 Summer Olympics,Anna Chicherova,Russian Federation,Bronze,"Athletics, Women's high jump",Athletics,Female
+92,2008 Summer Olympics,Nadezhda Evstyukhina,Russian Federation,Bronze,"Weightlifting, Women's 75 kg",Weightlifting,Female
+93,2008 Summer Olympics,Dmitry Lapikov,Russian Federation,Bronze,"Weightlifting, Men's 105 kg",Weightlifting,Male
+94,2008 Summer Olympics,Tatyana Chernova,Russian Federation,Bronze,"Athletics, Women's heptathlon",Athletics,Female
+95,2008 Summer Olympics,Relay team ( Denis Alexeev ),Russian Federation,Bronze,"Athletics, Men's 4 × 400 m relay",Athletics,Male
+96,2008 Summer Olympics,Yekaterina Volkova,Russian Federation,Bronze,"Athletics, Women's 3000 m steeplechase",Athletics,Female
+97,2008 Summer Olympics,Ara Abrahamian,Sweden,Bronze,"Wrestling, Men's Greco-Roman 84 kg (X, Z)",Wrestling,Male
+98,2008 Summer Olympics,Elvan Abeylegesse,Türkiye,Silver,"Athletics, Women's 5000 metres",Athletics,Female
+99,2008 Summer Olympics,Elvan Abeylegesse,Türkiye,Silver,"Athletics, Women's 10000 metres",Athletics,Female
+100,2008 Summer Olympics,Sibel Özkan,Türkiye,Silver,"Weightlifting, Women's 48 kg",Weightlifting,Female
+101,2008 Summer Olympics,Lyudmyla Blonska,Ukraine,Silver,"Athletics, Women's heptathlon",Athletics,Female
+102,2008 Summer Olympics,Vasyl Fedoryshyn,Ukraine,Silver,"Wrestling, Men's freestyle 60 kg",Wrestling,Male
+103,2008 Summer Olympics,Olha Korobka,Ukraine,Silver,"Weightlifting, Women's +75 kg",Weightlifting,Female
+104,2008 Summer Olympics,Nataliya Davydova,Ukraine,Bronze,"Weightlifting, Women's 69 kg",Weightlifting,Female
+105,2008 Summer Olympics,Victoria Tereshchuk,Ukraine,Bronze,"Modern pentathlon, Women's modern pentathlon",Modern pentathlon,Female
+106,2008 Summer Olympics,Denys Yurchenko,Ukraine,Bronze,"Athletics, Men's pole vault",Athletics,Male
+107,2008 Summer Olympics,Artur Taymazov,Uzbekistan,Gold,"Wrestling, Men's freestyle 120 kg",Wrestling,Male
+108,2008 Summer Olympics,Soslan Tigiev,Uzbekistan,Silver,"Wrestling, Men's freestyle 74 kg",Wrestling,Male
+109,2010 Winter Olympics,Evgeny Ustyugov,Russian Federation,Gold,"Biathlon, Men's mass start",Biathlon,Male
+110,2010 Winter Olympics,Relay team ( Evgeny Ustyugov ),Russian Federation,Bronze,"Biathlon, Men's relay",Biathlon,Male
+111,2012 Summer Olympics,Hripsime Khurshudyan,Armenia,Bronze,"Weightlifting, Women's +75 kg",Weightlifting,Female
+112,2012 Summer Olympics,Valentin Hristov,Azerbaijan,Bronze,"Weightlifting, Men's 56 kg",Weightlifting,Male
+113,2012 Summer Olympics,Nadzeya Ostapchuk,Belarus,Gold,"Athletics, Women's shot put",Athletics,Female
+114,2012 Summer Olympics,Iryna Kulesha,Belarus,Bronze,"Weightlifting, Women's 75 kg",Weightlifting,Female
+115,2012 Summer Olympics,Maryna Shkermankova,Belarus,Bronze,"Weightlifting, Women's 69 kg",Weightlifting,Female
+116,2012 Summer Olympics,Davit Modzmanashvili,Georgia,Silver,"Wrestling, Men's freestyle 120 kg",Wrestling,Male
+117,2012 Summer Olympics,Zulfiya Chinshanlo,Kazakhstan,Gold,"Weightlifting, Women's 53 kg",Weightlifting,Female
+118,2012 Summer Olympics,Ilya Ilyin,Kazakhstan,Gold,"Weightlifting, Men's 94 kg",Weightlifting,Male
+119,2012 Summer Olympics,Maiya Maneza,Kazakhstan,Gold,"Weightlifting, Women's 63 kg",Weightlifting,Female
+120,2012 Summer Olympics,Svetlana Podobedova,Kazakhstan,Gold,"Weightlifting, Women's 75 kg",Weightlifting,Female
+121,2012 Summer Olympics,Jevgenij Shuklin,Lithuania,Silver,"Canoeing, Men's C-1 200 m",Canoeing,Male
+122,2012 Summer Olympics,Anatolie Cîrîcu,Republic of Moldova,Bronze,"Weightlifting, Men's 94 kg",Weightlifting,Male
+123,2012 Summer Olympics,Cristina Iovu,Republic of Moldova,Bronze,"Weightlifting, Women's 53 kg",Weightlifting,Female
+124,2012 Summer Olympics,Răzvan Martin,Romania,Bronze,"Weightlifting, Men's 69 kg",Weightlifting,Male
+125,2012 Summer Olympics,Roxana Cocoș,Romania,Silver,"Weightlifting, Women's 69 kg",Weightlifting,Female
+126,2012 Summer Olympics,Natalya Antyukh,Russian Federation,Gold,"Athletics, Women's 400 m hurdles",Athletics,Female
+127,2012 Summer Olympics,Sergey Kirdyapkin,Russian Federation,Gold,"Athletics, Men's 50 km walk",Athletics,Male
+128,2012 Summer Olympics,Elena Lashmanova,Russian Federation,Gold,"Athletics, Women's 20 km walk",Athletics,Female
+129,2012 Summer Olympics,Ivan Ukhov,Russian Federation,Gold,"Athletics, Men's high jump",Athletics,Male
+130,2012 Summer Olympics,Tatyana Lysenko,Russian Federation,Gold,"Athletics, Women's hammer throw",Athletics,Female
+131,2012 Summer Olympics,Mariya Savinova,Russian Federation,Gold,"Athletics, Women's 800 m",Athletics,Female
+132,2012 Summer Olympics,Yuliya Zaripova,Russian Federation,Gold,"Athletics, Women's 3000 m steeplechase",Athletics,Female
+133,2012 Summer Olympics,Apti Aukhadov,Russian Federation,Silver,"Weightlifting, Men's 85 kg",Weightlifting,Male
+134,2012 Summer Olympics,Aleksandr Ivanov,Russian Federation,Silver,"Weightlifting, Men's 94 kg",Weightlifting,Male
+135,2012 Summer Olympics,Olga Kaniskina,Russian Federation,Silver,"Athletics, Women's 20 km walk",Athletics,Female
+136,2012 Summer Olympics,Yevgeniya Kolodko,Russian Federation,Silver,"Athletics, Women's shot put",Athletics,Female
+137,2012 Summer Olympics,Darya Pishchalnikova,Russian Federation,Silver,"Athletics, Women's discus throw",Athletics,Female
+138,2012 Summer Olympics,Tatyana Tomashova,Russian Federation,Silver,"Athletics, Women's 1500 m",Athletics,Female
+139,2012 Summer Olympics,"Relay team ( Antonina Krivoshapka , Yulia Gushchina , Tatyana Firova , Natalya Antyukh )",Russian Federation,Silver,"Athletics, Women's 4 × 400 m relay",Athletics,Female
+140,2012 Summer Olympics,Svetlana Tsarukaeva,Russian Federation,Silver,"Weightlifting, Women's 63 kg",Weightlifting,Female
+141,2012 Summer Olympics,Natalya Zabolotnaya,Russian Federation,Silver,"Weightlifting, Women's 75 kg",Weightlifting,Female
+142,2012 Summer Olympics,Tatyana Chernova,Russian Federation,Bronze,"Athletics, Women's heptathlon",Athletics,Female
+143,2012 Summer Olympics,Ekaterina Guliyev,Russian Federation,Bronze,"Athletics, Women's 800 m (Y) – 2 medals to be allocated",Athletics,Female
+144,2012 Summer Olympics,Svetlana Shkolina,Russian Federation,Bronze,"Athletics, Women's high jump",Athletics,Female
+145,2012 Summer Olympics,Ruslan Albegov,Russian Federation,Bronze,"Weightlifting, Men's +105 kg",Weightlifting,Male
+146,2012 Summer Olympics,Asli Cakir Alptekin,Türkiye,Gold,"Athletics, Women's 1500 m",Athletics,Female
+147,2012 Summer Olympics,Gamze Bulut,Türkiye,Silver,"Athletics, Women's 1500 m",Athletics,Female
+148,2012 Summer Olympics,Relay team ( Tyson Gay ),United States,Silver,"Athletics, Men's 4 × 100 m relay",Athletics,Male
+149,2012 Summer Olympics,Oleksiy Torokhtiy,Ukraine,Gold,"Weightlifting, Men's 105 kg",Weightlifting,Male
+150,2012 Summer Olympics,Oleksandr Pyatnytsya,Ukraine,Silver,"Athletics, Men's javelin throw",Athletics,Male
+151,2012 Summer Olympics,Yuliya Kalina,Ukraine,Bronze,"Weightlifting, Women's 58 kg",Weightlifting,Female
+152,2012 Summer Olympics,Artur Taymazov,Uzbekistan,Gold,"Wrestling, Men's freestyle 120 kg",Wrestling,Male
+153,2012 Summer Olympics,Soslan Tigiev,Uzbekistan,Bronze,"Wrestling, Men's freestyle 74 kg",Wrestling,Male
+154,2014 Winter Olympics,"Two-man ( Alexandr Zubkov , Alexey Voyevoda )",Russian Federation,Gold,"Bobsleigh, Two-man",Bobsleigh,Male
+155,2014 Winter Olympics,"Four-man ( Alexandr Zubkov , Alexey Voyevoda )",Russian Federation,Gold,"Bobsleigh, Four-man",Bobsleigh,Male
+156,2014 Winter Olympics,Relay team ( Evgeny Ustyugov ),Russian Federation,Gold,"Biathlon, Men's relay",Biathlon,Male
+157,2014 Winter Olympics,Relay team ( Olga Zaitseva ),Russian Federation,Silver,"Biathlon, Women's relay",Biathlon,Female
+158,2016 Summer Olympics,Nijat Rahimov,Kazakhstan,Gold,"Weightlifting, Men's 77 kg (Y) – 3 medals to be allocated",Weightlifting,Male
+159,2016 Summer Olympics,Izzat Artykov,Kyrgyzstan,Bronze,"Weightlifting, Men's 69 kg",Weightlifting,Male
+160,2016 Summer Olympics,Serghei Tarnovschi,Republic of Moldova,Bronze,"Canoeing, Men's C-1 1000 m",Canoeing,Male
+161,2016 Summer Olympics,Gabriel Sîncrăian,Romania,Bronze,"Weightlifting, Men's 85 kg",Weightlifting,Male
+162,2016 Summer Olympics,Mikhail Aloyan,Russian Federation,Silver,"Boxing, Men's flyweight",Boxing,Male
+163,2018 Winter Olympics,Curling team ( Aleksandr Krushelnitckii ),Russian Federation,Bronze,"Curling, Mixed doubles",Curling,Mixed
+164,2020 Summer Olympics,Relay team ( Chijindu Ujah ),Great Britain,Silver,"Athletics, Men's 4 x 100 m relay",Athletics,Male
+165,2022 Winter Olympics,Figure skating team ( Kamila Valieva ),Russian Federation,Gold,"Figure skating, team event",Figure skating,Mixed
+166,2024 Summer Olympics,Jordan Chiles,United States,Bronze,"Gymnastics, Women's floor (Z)",Gymnastics,Female

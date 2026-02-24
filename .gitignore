@@ -1,0 +1,19 @@
+# Fichiers et dossiers d'environnement
+venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+
+# Fichiers sensibles à exclure
+.env
+
+# Fichiers de Jupyter Notebook (checkpoints)
+.ipynb_checkpoints/
+
+# Fichiers spécifiques à l'IDE (VS Code)
+.vscode/
+
+# Ne pas uploader les fichiers temporaires de Windows
+Thumbs.db
+desktop.ini

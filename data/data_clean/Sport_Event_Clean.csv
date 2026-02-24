@@ -1,0 +1,1095 @@
+sport_event_id,sport_event,event,sport,sport_id,weight_category_sport,season,collective_sport,gender_category
+1,"Athletics,100 metres, Men","100 metres, Men",Athletics,1,False,Summer,False,Men
+2,"Athletics,400 metres, Men","400 metres, Men",Athletics,1,False,Summer,False,Men
+3,"Athletics,800 metres, Men","800 metres, Men",Athletics,1,False,Summer,False,Men
+4,"Athletics,1,500 metres, Men","1,500 metres, Men",Athletics,1,False,Summer,False,Men
+5,"Athletics,5 miles, Men","5 miles, Men",Athletics,1,False,Summer,False,Men
+6,"Athletics,Marathon, Men","Marathon, Men",Athletics,1,False,Summer,False,Men
+7,"Athletics,110 metres Hurdles, Men","110 metres Hurdles, Men",Athletics,1,False,Summer,False,Men
+8,"Athletics,400 metres Hurdles, Men","400 metres Hurdles, Men",Athletics,1,False,Summer,False,Men
+9,"Athletics,3,200 metres Steeplechase, Men","3,200 metres Steeplechase, Men",Athletics,1,False,Summer,False,Men
+10,"Athletics,3,500 metres Race Walk, Men","3,500 metres Race Walk, Men",Athletics,1,False,Summer,False,Men
+11,"Athletics,10 miles Race Walk, Men","10 miles Race Walk, Men",Athletics,1,False,Summer,False,Men
+12,"Athletics,Standing High Jump, Men","Standing High Jump, Men",Athletics,1,False,Summer,False,Men
+13,"Athletics,Long Jump, Men","Long Jump, Men",Athletics,1,False,Summer,False,Men
+14,"Athletics,Standing Long Jump, Men","Standing Long Jump, Men",Athletics,1,False,Summer,False,Men
+15,"Athletics,Triple Jump, Men","Triple Jump, Men",Athletics,1,False,Summer,False,Men
+16,"Boxing,Lightweight, Men","Lightweight, Men",Boxing,2,True,Summer,False,Men
+17,"Boxing,Middleweight, Men","Middleweight, Men",Boxing,2,True,Summer,False,Men
+18,"Diving,Springboard, Men","Springboard, Men",Diving,3,False,Summer,False,Men
+19,"Rugby,Rugby, Men","Rugby, Men",Rugby,4,False,Summer,True,Men
+20,"Shooting,Small-Bore Rifle, Prone, 50 and 100 yards, Men","Small-Bore Rifle, Prone, 50 and 100 yards, Men",Shooting,5,False,Summer,False,Men
+21,"Shooting,Small-Bore Rifle, Disappearing Target, 25 yards, Men","Small-Bore Rifle, Disappearing Target, 25 yards, Men",Shooting,5,False,Summer,False,Men
+22,"Shooting,Small-Bore Rifle, Moving Target, 25 yards, Men","Small-Bore Rifle, Moving Target, 25 yards, Men",Shooting,5,False,Summer,False,Men
+23,"Swimming,100 metres Freestyle, Men","100 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+24,"Swimming,400 metres Freestyle, Men","400 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+25,"Swimming,1,500 metres Freestyle, Men","1,500 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+26,"Swimming,4 × 200 metres Freestyle Relay, Men","4 × 200 metres Freestyle Relay, Men",Swimming,6,False,Summer,True,Men
+27,"Swimming,100 metres Backstroke, Men","100 metres Backstroke, Men",Swimming,6,False,Summer,False,Men
+28,"Swimming,200 metres Breaststroke, Men","200 metres Breaststroke, Men",Swimming,6,False,Summer,False,Men
+29,"Athletics,200 metres, Men","200 metres, Men",Athletics,1,False,Summer,False,Men
+30,"Athletics,5,000 metres, Men","5,000 metres, Men",Athletics,1,False,Summer,False,Men
+31,"Athletics,10,000 metres, Men","10,000 metres, Men",Athletics,1,False,Summer,False,Men
+32,"Athletics,10 kilometres Race Walk, Men","10 kilometres Race Walk, Men",Athletics,1,False,Summer,False,Men
+33,"Athletics,Cross-Country, Individual, Men","Cross-Country, Individual, Men",Athletics,1,False,Summer,False,Men
+34,"Rowing,Single Sculls, Men","Single Sculls, Men",Rowing,7,False,Summer,False,Men
+35,"Rowing,Eights, Men","Eights, Men",Rowing,7,False,Summer,True,Men
+36,"Swimming,400 metres Breaststroke, Men","400 metres Breaststroke, Men",Swimming,6,False,Summer,False,Men
+37,"Swimming,100 metres Freestyle, Women","100 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+38,"Tennis,Singles, Covered Courts, Men","Singles, Covered Courts, Men",Tennis,8,False,Summer,False,Men
+39,"Artistic Gymnastics,Individual All-Around, Men","Individual All-Around, Men",Artistic Gymnastics,9,False,Summer,False,Men
+40,"Athletics,Standing Triple Jump, Men","Standing Triple Jump, Men",Athletics,1,False,Summer,False,Men
+41,"Athletics,Discus Throw, Men","Discus Throw, Men",Athletics,1,False,Summer,False,Men
+42,"Cycling Track,Sprint, Men","Sprint, Men",Cycling Track,10,False,Summer,False,Men
+43,"Cycling Track,Sprint, Professionals, Men","Sprint, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+44,"Cycling Track,Tandem Sprint, Professionals, Men","Tandem Sprint, Professionals, Men",Cycling Track,10,False,Summer,True,Men
+45,"Cycling Track,Points Race, Professionals, Men","Points Race, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+46,"Cycling Track,3,000 metres, Handicap, Professionals, Men","3,000 metres, Handicap, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+47,"Tennis,Singles, Women","Singles, Women",Tennis,8,False,Summer,False,Women
+48,"Tennis,Singles, Handicap, Women","Singles, Handicap, Women",Tennis,8,False,Summer,False,Women
+49,"Tennis,Doubles, Mixed","Doubles, Mixed",Tennis,8,False,Summer,True,Mixed
+50,"Tennis,Doubles, Handicap, Mixed","Doubles, Handicap, Mixed",Tennis,8,False,Summer,True,Mixed
+51,"Athletics,Shot Put, Men","Shot Put, Men",Athletics,1,False,Summer,False,Men
+52,"Athletics,Discus Throw, Greek Style, Men","Discus Throw, Greek Style, Men",Athletics,1,False,Summer,False,Men
+53,"Athletics,Javelin Throw, Freestyle, Men","Javelin Throw, Freestyle, Men",Athletics,1,False,Summer,False,Men
+54,"Fencing,Épée, Individual, Men","Épée, Individual, Men",Fencing,11,False,Summer,False,Men
+55,"Fencing,Épée, Team, Men","Épée, Team, Men",Fencing,11,False,Summer,True,Men
+56,"Fencing,Sabre, Individual, Men","Sabre, Individual, Men",Fencing,11,False,Summer,False,Men
+57,"Fencing,Sabre, Team, Men","Sabre, Team, Men",Fencing,11,False,Summer,True,Men
+58,"Fencing,Foil, Individual, Open","Foil, Individual, Open",Fencing,11,False,Summer,False,Open
+59,"Tennis,Singles, Men","Singles, Men",Tennis,8,False,Summer,False,Men
+60,"Tennis,Doubles, Men","Doubles, Men",Tennis,8,False,Summer,True,Men
+61,"Wrestling,Lightweight, Greco-Roman, Men","Lightweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+62,"Wrestling,Middleweight, Greco-Roman, Men","Middleweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+63,"Wrestling,Light-Heavyweight, Greco-Roman, Men","Light-Heavyweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+64,"Art Competitions,Sculpturing, Open","Sculpturing, Open",Art Competitions,13,False,Summer,False,Open
+65,"Athletics,4 × 100 metres Relay, Men","4 × 100 metres Relay, Men",Athletics,1,False,Summer,True,Men
+66,"Athletics,4 × 400 metres Relay, Men","4 × 400 metres Relay, Men",Athletics,1,False,Summer,True,Men
+67,"Athletics,Pole Vault, Men","Pole Vault, Men",Athletics,1,False,Summer,False,Men
+68,"Athletics,Hammer Throw, Men","Hammer Throw, Men",Athletics,1,False,Summer,False,Men
+69,"Athletics,Pentathlon, Men","Pentathlon, Men",Athletics,1,False,Summer,False,Men
+70,"Athletics,Decathlon, Men","Decathlon, Men",Athletics,1,False,Summer,False,Men
+71,"Cycling Road,Road Race, Individual, Men","Road Race, Individual, Men",Cycling Road,14,False,Summer,False,Men
+72,"Cycling Road,Road Race, Team, Men","Road Race, Team, Men",Cycling Road,14,False,Summer,True,Men
+73,"Fencing,Foil, Individual, Men","Foil, Individual, Men",Fencing,11,False,Summer,False,Men
+74,"Tennis,Doubles, Covered Courts, Men","Doubles, Covered Courts, Men",Tennis,8,False,Summer,True,Men
+75,"Tennis,Doubles, Covered Courts, Mixed","Doubles, Covered Courts, Mixed",Tennis,8,False,Summer,True,Mixed
+76,"Wrestling,Featherweight, Greco-Roman, Men","Featherweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+77,"Wrestling,Middleweight B, Greco-Roman, Men","Middleweight B, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+78,"Artistic Swimming,Solo, Women","Solo, Women",Artistic Swimming,15,False,Summer,False,Women
+79,"Artistic Swimming,Duet, Women","Duet, Women",Artistic Swimming,15,False,Summer,True,Women
+80,"Athletics,100 metres, Women","100 metres, Women",Athletics,1,False,Summer,False,Women
+81,"Athletics,200 metres, Women","200 metres, Women",Athletics,1,False,Summer,False,Women
+82,"Athletics,Marathon, Women","Marathon, Women",Athletics,1,False,Summer,False,Women
+83,"Boxing,Light-Welterweight, Men","Light-Welterweight, Men",Boxing,2,True,Summer,False,Men
+84,"Boxing,Light-Heavyweight, Men","Light-Heavyweight, Men",Boxing,2,True,Summer,False,Men
+85,"Judo,Middleweight, Men","Middleweight, Men",Judo,16,True,Summer,False,Men
+86,"Sailing,Windsurfer, Men","Windsurfer, Men",Sailing,17,False,Summer,False,Men
+87,"Weightlifting,Middleweight, Men","Middleweight, Men",Weightlifting,18,True,Summer,False,Men
+88,"Judo,Half-Lightweight, Men","Half-Lightweight, Men",Judo,16,True,Summer,False,Men
+89,"Swimming,50 metres Freestyle, Men","50 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+90,"Swimming,50 metres Freestyle, Women","50 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+91,"Swimming,100 metres Butterfly, Men","100 metres Butterfly, Men",Swimming,6,False,Summer,False,Men
+92,"Weightlifting,Middle-Heavyweight, Men","Middle-Heavyweight, Men",Weightlifting,18,True,Summer,False,Men
+93,"Judo,Half-Middleweight, Men","Half-Middleweight, Men",Judo,16,True,Summer,False,Men
+94,"Swimming,800 metres Freestyle, Women","800 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+95,"Weightlifting,Super-Heavyweight, Men","Super-Heavyweight, Men",Weightlifting,18,True,Summer,False,Men
+96,"Sailing,One Person Dinghy, Women","One Person Dinghy, Women",Sailing,17,False,Summer,False,Women
+97,"Sailing,Multihull, Mixed","Multihull, Mixed",Sailing,17,False,Summer,True,Mixed
+98,"Swimming,200 metres Freestyle, Men","200 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+99,"Taekwondo,Flyweight, Women","Flyweight, Women",Taekwondo,19,True,Summer,False,Women
+100,"Shooting,Air Pistol, 10 metres, Men","Air Pistol, 10 metres, Men",Shooting,5,False,Summer,False,Men
+101,"Swimming,100 metres Breaststroke, Men","100 metres Breaststroke, Men",Swimming,6,False,Summer,False,Men
+102,"Shooting,Air Rifle, 10 metres, Women","Air Rifle, 10 metres, Women",Shooting,5,False,Summer,False,Women
+103,"Athletics,Long Jump, Women","Long Jump, Women",Athletics,1,False,Summer,False,Women
+104,"Shooting,Air Rifle, 10 metres, Men","Air Rifle, 10 metres, Men",Shooting,5,False,Summer,False,Men
+105,"Shooting,Small-Bore Rifle, Three Positions, 50 metres, Women","Small-Bore Rifle, Three Positions, 50 metres, Women",Shooting,5,False,Summer,False,Women
+106,"Swimming,100 metres Breaststroke, Women","100 metres Breaststroke, Women",Swimming,6,False,Summer,False,Women
+107,"Archery,Individual, Men","Individual, Men",Archery,20,False,Summer,False,Men
+108,"Artistic Gymnastics,Floor Exercise, Men","Floor Exercise, Men",Artistic Gymnastics,9,False,Summer,False,Men
+109,"Artistic Gymnastics,Parallel Bars, Men","Parallel Bars, Men",Artistic Gymnastics,9,False,Summer,False,Men
+110,"Artistic Gymnastics,Horizontal Bar, Men","Horizontal Bar, Men",Artistic Gymnastics,9,False,Summer,False,Men
+111,"Archery,Individual, Women","Individual, Women",Archery,20,False,Summer,False,Women
+112,"Golf,Individual, Men","Individual, Men",Golf,21,False,Summer,False,Men
+113,"Archery,Team, Mixed","Team, Mixed",Archery,20,False,Summer,True,Mixed
+114,"Archery,Team, Men","Team, Men",Archery,20,False,Summer,True,Men
+115,"Archery,Team, Women","Team, Women",Archery,20,False,Summer,True,Women
+116,"Judo,Extra-Lightweight, Men","Extra-Lightweight, Men",Judo,16,True,Summer,False,Men
+117,"Boxing,Welterweight, Men","Welterweight, Men",Boxing,2,True,Summer,False,Men
+118,"Weightlifting,Light-Heavyweight, Men","Light-Heavyweight, Men",Weightlifting,18,True,Summer,False,Men
+119,"Weightlifting,Heavyweight II, Men","Heavyweight II, Men",Weightlifting,18,True,Summer,False,Men
+120,"Wrestling,Heavyweight, Freestyle, Men","Heavyweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+121,"Boxing,Light-Middleweight, Men","Light-Middleweight, Men",Boxing,2,True,Summer,False,Men
+122,"Bobsleigh,Two, Men","Two, Men",Bobsleigh,22,False,Winter,True,Men
+123,"Athletics,Shot Put, Women","Shot Put, Women",Athletics,1,False,Summer,False,Women
+124,"Sailing,Two Person Keelboat, Open","Two Person Keelboat, Open",Sailing,17,False,Summer,True,Open
+125,"Wrestling,Light-Heavyweight, Freestyle, Men","Light-Heavyweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+126,"Athletics,Hammer Throw, Women","Hammer Throw, Women",Athletics,1,False,Summer,False,Women
+127,"Weightlifting,Heavyweight, Men","Heavyweight, Men",Weightlifting,18,True,Summer,False,Men
+128,"Judo,Half-Middleweight, Women","Half-Middleweight, Women",Judo,16,True,Summer,False,Women
+129,"Judo,Half-Heavyweight, Men","Half-Heavyweight, Men",Judo,16,True,Summer,False,Men
+130,"Judo,Lightweight, Men","Lightweight, Men",Judo,16,True,Summer,False,Men
+131,"Sailing,Two Person Dinghy, Men","Two Person Dinghy, Men",Sailing,17,False,Summer,True,Men
+132,"Skeleton,Skeleton, Men","Skeleton, Men",Skeleton,23,False,Winter,False,Men
+133,"Cycling Track,1,000 metres Time Trial, Men","1,000 metres Time Trial, Men",Cycling Track,10,False,Summer,False,Men
+134,"Cycling Track,Individual Pursuit, 4,000 metres, Men","Individual Pursuit, 4,000 metres, Men",Cycling Track,10,False,Summer,False,Men
+135,"Athletics,400 metres, Women","400 metres, Women",Athletics,1,False,Summer,False,Women
+136,"Athletics,800 metres, Women","800 metres, Women",Athletics,1,False,Summer,False,Women
+137,"Athletics,1,500 metres, Women","1,500 metres, Women",Athletics,1,False,Summer,False,Women
+138,"Athletics,4 × 400 metres Relay, Women","4 × 400 metres Relay, Women",Athletics,1,False,Summer,True,Women
+139,"Cycling Track,Points Race, Men","Points Race, Men",Cycling Track,10,False,Summer,False,Men
+140,"Boxing,Bantamweight, Men","Bantamweight, Men",Boxing,2,True,Summer,False,Men
+141,"Sailing,Windsurfer, Open","Windsurfer, Open",Sailing,17,False,Summer,False,Open
+142,"Sailing,One Person Dinghy, Men","One Person Dinghy, Men",Sailing,17,False,Summer,False,Men
+143,"Athletics,4 × 100 metres Relay, Women","4 × 100 metres Relay, Women",Athletics,1,False,Summer,True,Women
+144,"Canoe Sprint,Canadian Doubles, 1,000 metres, Men","Canadian Doubles, 1,000 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+145,"Canoe Sprint,Kayak Singles, 500 metres, Women","Kayak Singles, 500 metres, Women",Canoe Sprint,24,False,Summer,False,Women
+146,"Cycling Mountain Bike,Cross-Country, Men","Cross-Country, Men",Cycling Mountain Bike,25,False,Summer,False,Men
+147,"Sailing,One Person Dinghy, Open","One Person Dinghy, Open",Sailing,17,False,Summer,False,Open
+148,"Athletics,High Jump, Men","High Jump, Men",Athletics,1,False,Summer,False,Men
+149,"Athletics,High Jump, Women","High Jump, Women",Athletics,1,False,Summer,False,Women
+150,"Modern Pentathlon,Individual, Men","Individual, Men",Modern Pentathlon,26,False,Summer,False,Men
+151,"Modern Pentathlon,Team, Men","Team, Men",Modern Pentathlon,26,False,Summer,True,Men
+152,"Shooting,Rapid-Fire Pistol, 25 metres, Men","Rapid-Fire Pistol, 25 metres, Men",Shooting,5,False,Summer,False,Men
+153,"Shooting,Small-Bore Rifle, Prone, 50 metres, Men","Small-Bore Rifle, Prone, 50 metres, Men",Shooting,5,False,Summer,False,Men
+154,"Shooting,Trap, Open","Trap, Open",Shooting,5,False,Summer,False,Open
+155,"Athletics,3,000 metres Steeplechase, Men","3,000 metres Steeplechase, Men",Athletics,1,False,Summer,False,Men
+156,"Taekwondo,Flyweight, Men","Flyweight, Men",Taekwondo,19,True,Summer,False,Men
+157,"Taekwondo,Featherweight, Men","Featherweight, Men",Taekwondo,19,True,Summer,False,Men
+158,"Taekwondo,Middleweight, Men","Middleweight, Men",Taekwondo,19,True,Summer,False,Men
+159,"Taekwondo,Heavyweight, Men","Heavyweight, Men",Taekwondo,19,True,Summer,False,Men
+160,"Athletics,Javelin Throw, Men","Javelin Throw, Men",Athletics,1,False,Summer,False,Men
+161,"Cycling Road,100 kilometres Team Time Trial, Men","100 kilometres Team Time Trial, Men",Cycling Road,14,False,Summer,True,Men
+162,"Taekwondo,Lightweight, Men","Lightweight, Men",Taekwondo,19,True,Summer,False,Men
+163,"Sailing,Three Person Keelboat, Open","Three Person Keelboat, Open",Sailing,17,False,Summer,True,Open
+164,"Athletics,5,000 metres, Women","5,000 metres, Women",Athletics,1,False,Summer,False,Women
+165,"Athletics,10,000 metres, Women","10,000 metres, Women",Athletics,1,False,Summer,False,Women
+166,"Athletics,3,000 metres Steeplechase, Women","3,000 metres Steeplechase, Women",Athletics,1,False,Summer,False,Women
+167,"Wrestling,Welterweight, Freestyle, Men","Welterweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+168,"Athletics,400 metres Hurdles, Women","400 metres Hurdles, Women",Athletics,1,False,Summer,False,Women
+169,"Boxing,Super-Heavyweight, Men","Super-Heavyweight, Men",Boxing,2,True,Summer,False,Men
+170,"Handball,Handball, Men","Handball, Men",Handball,27,False,Summer,True,Men
+171,"Shooting,Skeet, Women","Skeet, Women",Shooting,5,False,Summer,False,Women
+172,"Boxing,Light-Flyweight, Men","Light-Flyweight, Men",Boxing,2,True,Summer,False,Men
+173,"Boxing,Featherweight, Men","Featherweight, Men",Boxing,2,True,Summer,False,Men
+174,"Athletics,100 metres Hurdles, Women","100 metres Hurdles, Women",Athletics,1,False,Summer,False,Women
+175,"Athletics,Heptathlon, Women","Heptathlon, Women",Athletics,1,False,Summer,False,Women
+176,"Shooting,Small-Bore Rifle, Prone, 50 metres, Open","Small-Bore Rifle, Prone, 50 metres, Open",Shooting,5,False,Summer,False,Open
+177,"Weightlifting,Lightweight, Men","Lightweight, Men",Weightlifting,18,True,Summer,False,Men
+178,"Shooting,Free Pistol, 50 metres, Open","Free Pistol, 50 metres, Open",Shooting,5,False,Summer,False,Open
+179,"Cycling Road,Road Race, Individual, Women","Road Race, Individual, Women",Cycling Road,14,False,Summer,False,Women
+180,"Athletics,Triple Jump, Women","Triple Jump, Women",Athletics,1,False,Summer,False,Women
+181,"Canoe Sprint,Kayak Singles, 200 metres, Men","Kayak Singles, 200 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+182,"Canoe Sprint,Kayak Singles, 1,000 metres, Men","Kayak Singles, 1,000 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+183,"Weightlifting,Bantamweight, Men","Bantamweight, Men",Weightlifting,18,True,Summer,False,Men
+184,"Swimming,200 metres Butterfly, Men","200 metres Butterfly, Men",Swimming,6,False,Summer,False,Men
+185,"Swimming,200 metres Individual Medley, Men","200 metres Individual Medley, Men",Swimming,6,False,Summer,False,Men
+186,"Swimming,400 metres Individual Medley, Men","400 metres Individual Medley, Men",Swimming,6,False,Summer,False,Men
+187,"Shooting,Skeet, Open","Skeet, Open",Shooting,5,False,Summer,False,Open
+188,"Artistic Gymnastics,Horse Vault, Men","Horse Vault, Men",Artistic Gymnastics,9,False,Summer,False,Men
+189,"Artistic Gymnastics,Rings, Men","Rings, Men",Artistic Gymnastics,9,False,Summer,False,Men
+190,"Artistic Gymnastics,Pommelled Horse, Men","Pommelled Horse, Men",Artistic Gymnastics,9,False,Summer,False,Men
+191,"Shooting,Skeet, Men","Skeet, Men",Shooting,5,False,Summer,False,Men
+192,"Swimming,200 metres Backstroke, Men","200 metres Backstroke, Men",Swimming,6,False,Summer,False,Men
+193,"Swimming,400 metres Freestyle, Women","400 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+194,"Triathlon,Olympic Distance, Men","Olympic Distance, Men",Triathlon,28,False,Summer,False,Men
+195,"Swimming,100 metres Backstroke, Women","100 metres Backstroke, Women",Swimming,6,False,Summer,False,Women
+196,"Weightlifting,Featherweight, Men","Featherweight, Men",Weightlifting,18,True,Summer,False,Men
+197,"Shooting,Sporting Pistol, 25 metres, Women","Sporting Pistol, 25 metres, Women",Shooting,5,False,Summer,False,Women
+198,"Athletics,Javelin Throw, Women","Javelin Throw, Women",Athletics,1,False,Summer,False,Women
+199,"Shooting,Air Pistol, 10 metres, Women","Air Pistol, 10 metres, Women",Shooting,5,False,Summer,False,Women
+200,"Wrestling,Lightweight, Freestyle, Men","Lightweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+201,"Alpine Skiing,Super G, Men","Super G, Men",Alpine Skiing,29,False,Winter,False,Men
+202,"Alpine Skiing,Giant Slalom, Men","Giant Slalom, Men",Alpine Skiing,29,False,Winter,False,Men
+203,"Alpine Skiing,Slalom, Men","Slalom, Men",Alpine Skiing,29,False,Winter,False,Men
+204,"Weightlifting,Lightweight, Women","Lightweight, Women",Weightlifting,18,True,Summer,False,Women
+205,"Wrestling,Heavyweight, Greco-Roman, Men","Heavyweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+206,"Judo,Half-Lightweight, Women","Half-Lightweight, Women",Judo,16,True,Summer,False,Women
+207,"Shooting,Free Pistol, 50 metres, Men","Free Pistol, 50 metres, Men",Shooting,5,False,Summer,False,Men
+208,"Swimming,100 metres Butterfly, Women","100 metres Butterfly, Women",Swimming,6,False,Summer,False,Women
+209,"Alpine Skiing,Giant Slalom, Women","Giant Slalom, Women",Alpine Skiing,29,False,Winter,False,Women
+210,"Alpine Skiing,Slalom, Women","Slalom, Women",Alpine Skiing,29,False,Winter,False,Women
+211,"Weightlifting,Featherweight, Women","Featherweight, Women",Weightlifting,18,True,Summer,False,Women
+212,"Swimming,4 × 100 metres Medley Relay, Men","4 × 100 metres Medley Relay, Men",Swimming,6,False,Summer,True,Men
+213,"Judo,Heavyweight, Men","Heavyweight, Men",Judo,16,True,Summer,False,Men
+214,"Athletics,3,000 metres, Women","3,000 metres, Women",Athletics,1,False,Summer,False,Women
+215,"Basketball,Basketball, Men","Basketball, Men",Basketball,30,False,Summer,True,Men
+216,"Roller Hockey,Roller Hockey, Men","Roller Hockey, Men",Roller Hockey,31,False,Summer,True,Men
+217,"Handball,Handball, Women","Handball, Women",Handball,27,False,Summer,True,Women
+218,"Shooting,Trap, Men","Trap, Men",Shooting,5,False,Summer,False,Men
+219,"Swimming,200 metres Breaststroke, Women","200 metres Breaststroke, Women",Swimming,6,False,Summer,False,Women
+220,"Judo,Middleweight, Women","Middleweight, Women",Judo,16,True,Summer,False,Women
+221,"Beach Volleyball,Beach Volleyball, Men","Beach Volleyball, Men",Beach Volleyball,32,False,Summer,True,Men
+222,"Canoe Sprint,Canadian Singles, 500 metres, Men","Canadian Singles, 500 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+223,"Canoe Sprint,Canadian Singles, 1,000 metres, Men","Canadian Singles, 1,000 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+224,"Basketball,Basketball, Women","Basketball, Women",Basketball,30,False,Summer,True,Women
+225,"Boxing,Heavyweight, Men","Heavyweight, Men",Boxing,2,True,Summer,False,Men
+226,"Canoe Sprint,Canadian Singles, 200 metres, Men","Canadian Singles, 200 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+227,"Rowing,Lightweight Double Sculls, Men","Lightweight Double Sculls, Men",Rowing,7,False,Summer,True,Men
+228,"Judo,Lightweight, Women","Lightweight, Women",Judo,16,True,Summer,False,Women
+229,"Hockey,Hockey, Men","Hockey, Men",Hockey,33,False,Summer,True,Men
+230,"Football,Football, Men","Football, Men",Football,34,False,Summer,True,Men
+231,"Wrestling,Flyweight, Freestyle, Men","Flyweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+232,"Wrestling,Featherweight, Freestyle, Men","Featherweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+233,"Wrestling,Middleweight, Freestyle, Men","Middleweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+234,"Wrestling,Bantamweight, Greco-Roman, Men","Bantamweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+235,"Wrestling,Bantamweight, Freestyle, Men","Bantamweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+236,"Wrestling,Light-Flyweight, Freestyle, Men","Light-Flyweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+237,"Boxing,Flyweight, Men","Flyweight, Men",Boxing,2,True,Summer,False,Men
+238,"Taekwondo,Welterweight, Men","Welterweight, Men",Taekwondo,19,True,Summer,False,Men
+239,"Badminton,Singles, Men","Singles, Men",Badminton,35,False,Summer,False,Men
+240,"Diving,Platform, Men","Platform, Men",Diving,3,False,Summer,False,Men
+241,"Wrestling,Light-Flyweight, Greco-Roman, Men","Light-Flyweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+242,"Figure Skating,Singles, Men","Singles, Men",Figure Skating,36,False,Winter,False,Men
+243,"Figure Skating,Singles, Women","Singles, Women",Figure Skating,36,False,Winter,False,Women
+244,"Figure Skating,Pairs, Mixed","Pairs, Mixed",Figure Skating,36,False,Winter,True,Mixed
+245,"Athletics,20 kilometres Race Walk, Women","20 kilometres Race Walk, Women",Athletics,1,False,Summer,False,Women
+246,"Wrestling,Welterweight, Greco-Roman, Men","Welterweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+247,"Wrestling,Super-Heavyweight, Freestyle, Men","Super-Heavyweight, Freestyle, Men",Wrestling,12,True,Summer,False,Men
+248,"Figure Skating,Ice Dancing, Mixed","Ice Dancing, Mixed",Figure Skating,36,False,Winter,True,Mixed
+249,"Fencing,Sabre, Individual, Women","Sabre, Individual, Women",Fencing,11,False,Summer,False,Women
+250,"Rhythmic Gymnastics,Individual, Women","Individual, Women",Rhythmic Gymnastics,37,False,Summer,False,Women
+251,"Equestrian Jumping,Individual, Open","Individual, Open",Equestrian Jumping,38,False,Summer,False,Open
+252,"Rhythmic Gymnastics,Group, Women","Group, Women",Rhythmic Gymnastics,37,False,Summer,True,Women
+253,"Wrestling,Super-Heavyweight, Greco-Roman, Men","Super-Heavyweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+254,"Wrestling,Flyweight, Freestyle, Women","Flyweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+255,"Wrestling,Lightweight, Freestyle, Women","Lightweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+256,"Wrestling,Middleweight, Freestyle, Women","Middleweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+257,"Wushu,Sanshou (≤56 kilograms), Men","Sanshou (≤56 kilograms), Men",Wushu,39,True,Summer,False,Men
+258,"Wushu,Sanshou (≤85 kilograms), Men","Sanshou (≤85 kilograms), Men",Wushu,39,True,Summer,False,Men
+259,"Boxing,Middleweight, Women","Middleweight, Women",Boxing,2,True,Summer,False,Women
+260,"Cycling Road,Individual Time Trial, Women","Individual Time Trial, Women",Cycling Road,14,False,Summer,False,Women
+261,"Rowing,Single Sculls, Women","Single Sculls, Women",Rowing,7,False,Summer,False,Women
+262,"Taekwondo,Welterweight, Women","Welterweight, Women",Taekwondo,19,True,Summer,False,Women
+263,"Boxing,Lightweight, Women","Lightweight, Women",Boxing,2,True,Summer,False,Women
+264,"Canoe Slalom,Kayak Singles, Slalom, Men","Kayak Singles, Slalom, Men",Canoe Slalom,40,False,Summer,False,Men
+265,"Canoe Sprint,Kayak Singles, 200 metres, Women","Kayak Singles, 200 metres, Women",Canoe Sprint,24,False,Summer,False,Women
+266,"Cycling Track,Sprint, Women","Sprint, Women",Cycling Track,10,False,Summer,False,Women
+267,"Cycling Track,Keirin, Women","Keirin, Women",Cycling Track,10,False,Summer,False,Women
+268,"Rowing,Double Sculls, Men","Double Sculls, Men",Rowing,7,False,Summer,True,Men
+269,"Wrestling,Featherweight, Freestyle, Women","Featherweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+270,"Artistic Gymnastics,Individual All-Around, Women","Individual All-Around, Women",Artistic Gymnastics,9,False,Summer,False,Women
+271,"Artistic Gymnastics,Floor Exercise, Women","Floor Exercise, Women",Artistic Gymnastics,9,False,Summer,False,Women
+272,"Artistic Gymnastics,Horse Vault, Women","Horse Vault, Women",Artistic Gymnastics,9,False,Summer,False,Women
+273,"Artistic Gymnastics,Uneven Bars, Women","Uneven Bars, Women",Artistic Gymnastics,9,False,Summer,False,Women
+274,"Artistic Gymnastics,Balance Beam, Women","Balance Beam, Women",Artistic Gymnastics,9,False,Summer,False,Women
+275,"Judo,Extra-Lightweight, Women","Extra-Lightweight, Women",Judo,16,True,Summer,False,Women
+276,"Judo,Heavyweight, Women","Heavyweight, Women",Judo,16,True,Summer,False,Women
+277,"Karate,Kumite, ≤67 kg, Men","Kumite, ≤67 kg, Men",Karate,41,True,Summer,False,Men
+278,"Karate,Kumite, ≤75 kg, Men","Kumite, ≤75 kg, Men",Karate,41,True,Summer,False,Men
+279,"Karate,Kumite, >61 kg, Women","Kumite, >61 kg, Women",Karate,41,True,Summer,False,Women
+280,"Wrestling,Light-Heavyweight, Freestyle, Women","Light-Heavyweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+281,"Diving,Springboard, Women","Springboard, Women",Diving,3,False,Summer,False,Women
+282,"Shooting,Small-Bore Rifle, Three Positions, 50 metres, Men","Small-Bore Rifle, Three Positions, 50 metres, Men",Shooting,5,False,Summer,False,Men
+283,"Weightlifting,Heavyweight I, Men","Heavyweight I, Men",Weightlifting,18,True,Summer,False,Men
+284,"Wrestling,Flyweight, Greco-Roman, Men","Flyweight, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+285,"Cross Country Skiing,30 kilometres, Women","30 kilometres, Women",Cross Country Skiing,42,False,Winter,False,Women
+286,"Freestyle Skiing,Moguls, Men","Moguls, Men",Freestyle Skiing,43,False,Winter,False,Men
+287,"Canoe Sprint,Kayak Singles, 500 metres, Men","Kayak Singles, 500 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+288,"Cross Country Skiing,Sprint, Men","Sprint, Men",Cross Country Skiing,42,False,Winter,False,Men
+289,"Cross Country Skiing,15 kilometres, Men","15 kilometres, Men",Cross Country Skiing,42,False,Winter,False,Men
+290,"Cross Country Skiing,30 kilometres, Men","30 kilometres, Men",Cross Country Skiing,42,False,Winter,False,Men
+291,"Cross Country Skiing,50 kilometres, Men","50 kilometres, Men",Cross Country Skiing,42,False,Winter,False,Men
+292,"Cross Country Skiing,10/10 kilometres Pursuit, Men","10/10 kilometres Pursuit, Men",Cross Country Skiing,42,False,Winter,False,Men
+293,"Cross Country Skiing,Sprint, Women","Sprint, Women",Cross Country Skiing,42,False,Winter,False,Women
+294,"Cross Country Skiing,10 kilometres, Women","10 kilometres, Women",Cross Country Skiing,42,False,Winter,False,Women
+295,"Cross Country Skiing,15 kilometres, Women","15 kilometres, Women",Cross Country Skiing,42,False,Winter,False,Women
+296,"Cross Country Skiing,5/5 kilometres Pursuit, Women","5/5 kilometres Pursuit, Women",Cross Country Skiing,42,False,Winter,False,Women
+297,"Cross Country Skiing,Team Sprint, Men","Team Sprint, Men",Cross Country Skiing,42,False,Winter,True,Men
+298,"Weightlifting,Heavyweight, Women","Heavyweight, Women",Weightlifting,18,True,Summer,False,Women
+299,"Wushu,Sanshou (≤70 kilograms), Men","Sanshou (≤70 kilograms), Men",Wushu,39,True,Summer,False,Men
+300,"Weightlifting,Light-Heavyweight, Women","Light-Heavyweight, Women",Weightlifting,18,True,Summer,False,Women
+301,"Weightlifting,Super-Heavyweight, Women","Super-Heavyweight, Women",Weightlifting,18,True,Summer,False,Women
+302,"Cross Country Skiing,30 kilometres Skiathlon, Men","30 kilometres Skiathlon, Men",Cross Country Skiing,42,False,Winter,False,Men
+303,"Judo,Half-Heavyweight, Women","Half-Heavyweight, Women",Judo,16,True,Summer,False,Women
+304,"Boxing,Flyweight, Women","Flyweight, Women",Boxing,2,True,Summer,False,Women
+305,"Boxing,Featherweight, Women","Featherweight, Women",Boxing,2,True,Summer,False,Women
+306,"Sailing,Two Person Dinghy, Open","Two Person Dinghy, Open",Sailing,17,False,Summer,True,Open
+307,"Speed Skating,500 metres, Men","500 metres, Men",Speed Skating,44,False,Winter,False,Men
+308,"Speed Skating,1,000 metres, Men","1,000 metres, Men",Speed Skating,44,False,Winter,False,Men
+309,"Freestyle Skiing,Halfpipe, Men","Halfpipe, Men",Freestyle Skiing,43,False,Winter,False,Men
+310,"Athletics,10 kilometres Race Walk, Women","10 kilometres Race Walk, Women",Athletics,1,False,Summer,False,Women
+311,"Swimming,200 metres Butterfly, Women","200 metres Butterfly, Women",Swimming,6,False,Summer,False,Women
+312,"Bobsleigh,Four, Men","Four, Men",Bobsleigh,22,False,Winter,True,Men
+313,"Cross Country Skiing,10 kilometres, Men","10 kilometres, Men",Cross Country Skiing,42,False,Winter,False,Men
+314,"Cross Country Skiing,10/15 kilometres Pursuit, Men","10/15 kilometres Pursuit, Men",Cross Country Skiing,42,False,Winter,False,Men
+315,"Luge,Singles, Men","Singles, Men",Luge,45,False,Winter,False,Men
+316,"Luge,Singles, Women","Singles, Women",Luge,45,False,Winter,False,Women
+317,"Swimming,200 metres Backstroke, Women","200 metres Backstroke, Women",Swimming,6,False,Summer,False,Women
+318,"Table Tennis,Singles, Men","Singles, Men",Table Tennis,46,False,Summer,False,Men
+319,"Alpine Skiing,Downhill, Men","Downhill, Men",Alpine Skiing,29,False,Winter,False,Men
+320,"Alpine Skiing,Super G, Women","Super G, Women",Alpine Skiing,29,False,Winter,False,Women
+321,"Alpine Skiing,Combined, Men","Combined, Men",Alpine Skiing,29,False,Winter,False,Men
+322,"Biathlon,10 kilometres Sprint, Men","10 kilometres Sprint, Men",Biathlon,47,False,Winter,False,Men
+323,"Biathlon,20 kilometres, Men","20 kilometres, Men",Biathlon,47,False,Winter,False,Men
+324,"Biathlon,7.5 kilometres Sprint, Women","7.5 kilometres Sprint, Women",Biathlon,47,False,Winter,False,Women
+325,"Biathlon,15 kilometres, Women","15 kilometres, Women",Biathlon,47,False,Winter,False,Women
+326,"Alpine Skiing,Downhill, Women","Downhill, Women",Alpine Skiing,29,False,Winter,False,Women
+327,"Alpine Skiing,Combined, Women","Combined, Women",Alpine Skiing,29,False,Winter,False,Women
+328,"Sailing,Windsurfer, Women","Windsurfer, Women",Sailing,17,False,Summer,False,Women
+329,"Swimming,200 metres Individual Medley, Women","200 metres Individual Medley, Women",Swimming,6,False,Summer,False,Women
+330,"Canoe Slalom,Kayak Singles, Slalom, Women","Kayak Singles, Slalom, Women",Canoe Slalom,40,False,Summer,False,Women
+331,"Snowboarding,Cross, Men","Cross, Men",Snowboarding,48,False,Winter,False,Men
+332,"Canoe Slalom,Canadian Singles, Slalom, Women","Canadian Singles, Slalom, Women",Canoe Slalom,40,False,Summer,False,Women
+333,"Cross Country Skiing,15 kilometres Skiathlon, Women","15 kilometres Skiathlon, Women",Cross Country Skiing,42,False,Winter,False,Women
+334,"Snowboarding,Cross, Women","Cross, Women",Snowboarding,48,False,Winter,False,Women
+335,"Taekwondo,Heavyweight, Women","Heavyweight, Women",Taekwondo,19,True,Summer,False,Women
+336,"Sailing,Two Person Heavyweight Dinghy, Open","Two Person Heavyweight Dinghy, Open",Sailing,17,False,Summer,True,Open
+337,"Sailing,5.5 metres, Open","5.5 metres, Open",Sailing,17,False,Summer,True,Open
+338,"Equestrian Eventing,Individual, Open","Individual, Open",Equestrian Eventing,49,False,Summer,False,Open
+339,"Sailing,Multihull, Open","Multihull, Open",Sailing,17,False,Summer,True,Open
+340,"Equestrian Dressage,Individual, Open","Individual, Open",Equestrian Dressage,50,False,Summer,False,Open
+341,"Swimming,4 × 100 metres Freestyle Relay, Men","4 × 100 metres Freestyle Relay, Men",Swimming,6,False,Summer,True,Men
+342,"Sailing,Two Person Keelboat, Men","Two Person Keelboat, Men",Sailing,17,False,Summer,True,Men
+343,"Sailing,Three Person Keelboat, Women","Three Person Keelboat, Women",Sailing,17,False,Summer,True,Women
+344,"Triathlon,Olympic Distance, Women","Olympic Distance, Women",Triathlon,28,False,Summer,False,Women
+345,"Sailing,Skiff, Men","Skiff, Men",Sailing,17,False,Summer,True,Men
+346,"Art Competitions,Architecture, Further Entries, Open","Architecture, Further Entries, Open",Art Competitions,13,False,Summer,False,Open
+347,"Athletics,20 kilometres Race Walk, Men","20 kilometres Race Walk, Men",Athletics,1,False,Summer,False,Men
+348,"Athletics,50 kilometres Race Walk, Men","50 kilometres Race Walk, Men",Athletics,1,False,Summer,False,Men
+349,"Swimming,200 metres Freestyle, Women","200 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+350,"Weightlifting,Middleweight, Women","Middleweight, Women",Weightlifting,18,True,Summer,False,Women
+351,"Shooting,Military Rifle, Kneeling Or Standing, 300 metres, Men","Military Rifle, Kneeling Or Standing, 300 metres, Men",Shooting,5,False,Other,False,Men
+352,"Volleyball,Volleyball, Men","Volleyball, Men",Volleyball,51,False,Summer,True,Men
+353,"Fencing,Foil, Individual, Women","Foil, Individual, Women",Fencing,11,False,Summer,False,Women
+354,"Fencing,Épée, Individual, Women","Épée, Individual, Women",Fencing,11,False,Summer,False,Women
+355,"Table Tennis,Doubles, Men","Doubles, Men",Table Tennis,46,False,Summer,True,Men
+356,"Trampolining,Individual, Men","Individual, Men",Trampolining,52,False,Summer,False,Men
+357,"Swimming,400 metres Individual Medley, Women","400 metres Individual Medley, Women",Swimming,6,False,Summer,False,Women
+358,"Table Tennis,Singles, Women","Singles, Women",Table Tennis,46,False,Summer,False,Women
+359,"Table Tennis,Doubles, Women","Doubles, Women",Table Tennis,46,False,Summer,True,Women
+360,"Volleyball,Volleyball, Women","Volleyball, Women",Volleyball,51,False,Summer,True,Women
+361,"Cycling Road,Individual Time Trial, Men","Individual Time Trial, Men",Cycling Road,14,False,Summer,False,Men
+362,"Marathon Swimming,10 kilometres Open Water, Women","10 kilometres Open Water, Women",Marathon Swimming,53,False,Summer,False,Women
+363,"Athletics,Discus Throw, Women","Discus Throw, Women",Athletics,1,False,Summer,False,Women
+364,"Athletics,Pentathlon, Women","Pentathlon, Women",Athletics,1,False,Summer,False,Women
+365,"Wrestling,Heavyweight, Freestyle, Women","Heavyweight, Freestyle, Women",Wrestling,12,True,Summer,False,Women
+366,"Football,Football, Women","Football, Women",Football,34,False,Summer,True,Women
+367,"Biathlon,4 × 7.5 kilometres Relay, Men","4 × 7.5 kilometres Relay, Men",Biathlon,47,False,Winter,True,Men
+368,"Biathlon,4 × 7.5 kilometres Relay, Women","4 × 7.5 kilometres Relay, Women",Biathlon,47,False,Winter,True,Women
+369,"Cross Country Skiing,4 × 10 kilometres Relay, Men","4 × 10 kilometres Relay, Men",Cross Country Skiing,42,False,Winter,True,Men
+370,"Cross Country Skiing,5 kilometres, Women","5 kilometres, Women",Cross Country Skiing,42,False,Winter,False,Women
+371,"Cross Country Skiing,5/10 kilometres Pursuit, Women","5/10 kilometres Pursuit, Women",Cross Country Skiing,42,False,Winter,False,Women
+372,"Cross Country Skiing,4 × 5 kilometres Relay, Women","4 × 5 kilometres Relay, Women",Cross Country Skiing,42,False,Winter,True,Women
+373,"Freestyle Skiing,Aerials, Men","Aerials, Men",Freestyle Skiing,43,False,Winter,False,Men
+374,"Freestyle Skiing,Aerials, Women","Aerials, Women",Freestyle Skiing,43,False,Winter,False,Women
+375,"Nordic Combined,Individual, Men","Individual, Men",Nordic Combined,54,False,Winter,False,Men
+376,"Ski Jumping,Normal Hill, Individual, Men","Normal Hill, Individual, Men",Ski Jumping,55,False,Winter,False,Men
+377,"Ski Jumping,Large Hill, Individual, Men","Large Hill, Individual, Men",Ski Jumping,55,False,Winter,False,Men
+378,"Speed Skating,1,500 metres, Men","1,500 metres, Men",Speed Skating,44,False,Winter,False,Men
+379,"Speed Skating,5,000 metres, Men","5,000 metres, Men",Speed Skating,44,False,Winter,False,Men
+380,"Artistic Gymnastics,Team All-Around, Men","Team All-Around, Men",Artistic Gymnastics,9,False,Summer,True,Men
+381,"Artistic Gymnastics,Team All-Around, Women","Team All-Around, Women",Artistic Gymnastics,9,False,Summer,True,Women
+382,"Badminton,Singles, Women","Singles, Women",Badminton,35,False,Summer,False,Women
+383,"Badminton,Doubles, Mixed","Doubles, Mixed",Badminton,35,False,Summer,True,Mixed
+384,"Canoe Sprint,Canadian Doubles, 500 metres, Men","Canadian Doubles, 500 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+385,"Cycling Track,Points Race, Women","Points Race, Women",Cycling Track,10,False,Summer,False,Women
+386,"Rowing,Coxless Pairs, Men","Coxless Pairs, Men",Rowing,7,False,Summer,True,Men
+387,"Rowing,Quadruple Sculls, Men","Quadruple Sculls, Men",Rowing,7,False,Summer,True,Men
+388,"Rowing,Eights, Women","Eights, Women",Rowing,7,False,Summer,True,Women
+389,"Swimming,4 × 100 metres Freestyle Relay, Women","4 × 100 metres Freestyle Relay, Women",Swimming,6,False,Summer,True,Women
+390,"Swimming,4 × 200 metres Freestyle Relay, Women","4 × 200 metres Freestyle Relay, Women",Swimming,6,False,Summer,True,Women
+391,"Tennis,Doubles, Women","Doubles, Women",Tennis,8,False,Summer,True,Women
+392,"Freestyle Skiing,Moguls, Women","Moguls, Women",Freestyle Skiing,43,False,Winter,False,Women
+393,"Ice Hockey,Ice Hockey, Men","Ice Hockey, Men",Ice Hockey,56,False,Winter,True,Men
+394,"Speed Skating,500 metres, Women","500 metres, Women",Speed Skating,44,False,Winter,False,Women
+395,"Speed Skating,1,000 metres, Women","1,000 metres, Women",Speed Skating,44,False,Winter,False,Women
+396,"Speed Skating,3,000 metres, Women","3,000 metres, Women",Speed Skating,44,False,Winter,False,Women
+397,"Canoe Sprint,Kayak Doubles, 500 metres, Women","Kayak Doubles, 500 metres, Women",Canoe Sprint,24,False,Summer,True,Women
+398,"Canoe Sprint,Kayak Fours, 500 metres, Women","Kayak Fours, 500 metres, Women",Canoe Sprint,24,False,Summer,True,Women
+399,"Modern Pentathlon,Individual, Women","Individual, Women",Modern Pentathlon,26,False,Summer,False,Women
+400,"Trampolining,Individual, Women","Individual, Women",Trampolining,52,False,Summer,False,Women
+401,"Biathlon,12.5 kilometres Pursuit, Men","12.5 kilometres Pursuit, Men",Biathlon,47,False,Winter,False,Men
+402,"Biathlon,10 kilometres Pursuit, Women","10 kilometres Pursuit, Women",Biathlon,47,False,Winter,False,Women
+403,"Nordic Combined,Sprint, Men","Sprint, Men",Nordic Combined,54,False,Winter,False,Men
+404,"Short Track Speed Skating,500 metres, Women","500 metres, Women",Short Track Speed Skating,57,False,Winter,False,Women
+405,"Short Track Speed Skating,1,500 metres, Women","1,500 metres, Women",Short Track Speed Skating,57,False,Winter,False,Women
+406,"Speed Skating,1,500 metres, Women","1,500 metres, Women",Speed Skating,44,False,Winter,False,Women
+407,"Canoe Sprint,Kayak Doubles, 500 metres, Men","Kayak Doubles, 500 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+408,"Canoe Sprint,Kayak Fours, 1,000 metres, Men","Kayak Fours, 1,000 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+409,"Cycling Track,500 metres Time Trial, Women","500 metres Time Trial, Women",Cycling Track,10,False,Summer,False,Women
+410,"Rowing,Coxless Pairs, Women","Coxless Pairs, Women",Rowing,7,False,Summer,True,Women
+411,"Rowing,Quadruple Sculls, Women","Quadruple Sculls, Women",Rowing,7,False,Summer,True,Women
+412,"Shooting,Running Target, 10 metres, Men","Running Target, 10 metres, Men",Shooting,5,False,Summer,False,Men
+413,"Biathlon,12.5 kilometres Mass Start, Women","12.5 kilometres Mass Start, Women",Biathlon,47,False,Winter,False,Women
+414,"Biathlon,4 × 6 kilometres Relay, Women","4 × 6 kilometres Relay, Women",Biathlon,47,False,Winter,True,Women
+415,"Short Track Speed Skating,1,000 metres, Women","1,000 metres, Women",Short Track Speed Skating,57,False,Winter,False,Women
+416,"Rowing,Coxless Fours, Men","Coxless Fours, Men",Rowing,7,False,Summer,True,Men
+417,"Biathlon,15 kilometres Mass Start, Men","15 kilometres Mass Start, Men",Biathlon,47,False,Winter,False,Men
+418,"Cross Country Skiing,Team Sprint, Women","Team Sprint, Women",Cross Country Skiing,42,False,Winter,True,Women
+419,"Athletics,Pole Vault, Women","Pole Vault, Women",Athletics,1,False,Summer,False,Women
+420,"Canoe Sprint,Kayak Doubles, 200 metres, Men","Kayak Doubles, 200 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+421,"Cycling Track,Team Pursuit, Women","Team Pursuit, Women",Cycling Track,10,False,Summer,True,Women
+422,"Cycling Track,Omnium, Women","Omnium, Women",Cycling Track,10,False,Summer,False,Women
+423,"Biathlon,2 × 6 kilometres and 2 × 7.5 kilometres Relay, Mixed","2 × 6 kilometres and 2 × 7.5 kilometres Relay, Mixed",Biathlon,47,False,Winter,True,Mixed
+424,"Short Track Speed Skating,1,500 metres, Men","1,500 metres, Men",Short Track Speed Skating,57,False,Winter,False,Men
+425,"Rowing,Double Sculls, Women","Double Sculls, Women",Rowing,7,False,Summer,True,Women
+426,"Speed Skating,Mass Start, Men","Mass Start, Men",Speed Skating,44,False,Winter,False,Men
+427,"Speed Skating,5,000 metres, Women","5,000 metres, Women",Speed Skating,44,False,Winter,False,Women
+428,"Speed Skating,Mass Start, Women","Mass Start, Women",Speed Skating,44,False,Winter,False,Women
+429,"Canoe Sprint,Kayak Doubles, 1,000 metres, Men","Kayak Doubles, 1,000 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+430,"Canoe Sprint,Kayak Fours, 500 metres, Men","Kayak Fours, 500 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+431,"Canoe Sprint,Canadian Singles, 200 metres, Women","Canadian Singles, 200 metres, Women",Canoe Sprint,24,False,Summer,False,Women
+432,"Canoe Sprint,Canadian Doubles, 500 metres, Women","Canadian Doubles, 500 metres, Women",Canoe Sprint,24,False,Summer,True,Women
+433,"Cycling Track,Omnium, Men","Omnium, Men",Cycling Track,10,False,Summer,False,Men
+434,"Rowing,Lightweight Double Sculls, Women","Lightweight Double Sculls, Women",Rowing,7,False,Summer,True,Women
+435,"Shooting,Air Rifle, 10 metres, Team, Mixed","Air Rifle, 10 metres, Team, Mixed",Shooting,5,False,Summer,True,Mixed
+436,"Swimming,4 × 100 metres Medley Relay, Women","4 × 100 metres Medley Relay, Women",Swimming,6,False,Summer,True,Women
+437,"Swimming,4 × 100 metres Medley Relay, Mixed","4 × 100 metres Medley Relay, Mixed",Swimming,6,False,Summer,True,Mixed
+438,"Freestyle Skiing,Team Aerials, Mixed","Team Aerials, Mixed",Freestyle Skiing,43,False,Winter,True,Mixed
+439,"Speed Skating,Team Pursuit (6 laps), Women","Team Pursuit (6 laps), Women",Speed Skating,44,False,Winter,True,Women
+440,"Taekwondo,Featherweight, Women","Featherweight, Women",Taekwondo,19,True,Summer,False,Women
+441,"Shooting,Small-Bore Rifle, Three Positions, 50 metres, Open","Small-Bore Rifle, Three Positions, 50 metres, Open",Shooting,5,False,Summer,False,Open
+442,"Shooting,Rapid-Fire Pistol, 25 metres, Open","Rapid-Fire Pistol, 25 metres, Open",Shooting,5,False,Summer,False,Open
+443,"Diving,Platform, Women","Platform, Women",Diving,3,False,Summer,False,Women
+444,"Cycling Mountain Bike,Cross-Country, Women","Cross-Country, Women",Cycling Mountain Bike,25,False,Summer,False,Women
+445,"Beach Volleyball,Beach Volleyball, Women","Beach Volleyball, Women",Beach Volleyball,32,False,Summer,True,Women
+446,"Cycling BMX Freestyle,Park, Men","Park, Men",Cycling BMX Freestyle,58,False,Summer,False,Men
+447,"Surfing,Shortboard, Men","Shortboard, Men",Surfing,59,False,Summer,False,Men
+448,"Surfing,Shortboard, Women","Shortboard, Women",Surfing,59,False,Summer,False,Women
+449,"Art Competitions,Unknown Event, Open","Unknown Event, Open",Art Competitions,13,False,Summer,False,Open
+450,"Athletics,80 metres Hurdles, Women","80 metres Hurdles, Women",Athletics,1,False,Summer,False,Women
+451,"Cycling Track,Individual Pursuit, Women","Individual Pursuit, Women",Cycling Track,10,False,Summer,False,Women
+452,"Swimming,800 metres Freestyle, Men","800 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+453,"Speed Skating,10,000 metres, Men","10,000 metres, Men",Speed Skating,44,False,Winter,False,Men
+454,"Shooting,Free Rifle, Three Positions, 300 metres, Open","Free Rifle, Three Positions, 300 metres, Open",Shooting,5,False,Summer,False,Open
+455,"Shooting,Running Target, 50 metres, Open","Running Target, 50 metres, Open",Shooting,5,False,Summer,False,Open
+456,"Weightlifting,Flyweight, Men","Flyweight, Men",Weightlifting,18,True,Summer,False,Men
+457,"Judo,Open Class, Men","Open Class, Men",Judo,16,True,Summer,False,Men
+458,"Short Track Speed Skating,1,000 metres, Men","1,000 metres, Men",Short Track Speed Skating,57,False,Winter,False,Men
+459,"Short Track Speed Skating,500 metres, Men","500 metres, Men",Short Track Speed Skating,57,False,Winter,False,Men
+460,"Short Track Speed Skating,3,000 metres Relay, Women","3,000 metres Relay, Women",Short Track Speed Skating,57,False,Winter,True,Women
+461,"Weightlifting,Flyweight, Women","Flyweight, Women",Weightlifting,18,True,Summer,False,Women
+462,"Diving,Synchronized Platform, Women","Synchronized Platform, Women",Diving,3,False,Summer,True,Women
+463,"Shooting,Trap, Women","Trap, Women",Shooting,5,False,Summer,False,Women
+464,"Table Tennis,Team, Men","Team, Men",Table Tennis,46,False,Summer,True,Men
+465,"Table Tennis,Team, Women","Team, Women",Table Tennis,46,False,Summer,True,Women
+466,"Baseball,Baseball, Men","Baseball, Men",Baseball,60,False,Summer,True,Men
+467,"Shooting,Double Trap, Men","Double Trap, Men",Shooting,5,False,Summer,False,Men
+468,"Athletics,4 × 400 metres Relay, Mixed","4 × 400 metres Relay, Mixed",Athletics,1,False,Summer,True,Mixed
+469,"Boxing,Welterweight, Women","Welterweight, Women",Boxing,2,True,Summer,False,Women
+470,"Art Competitions,Music, Open","Music, Open",Art Competitions,13,False,Summer,False,Open
+471,"Cycling Track,Team Pursuit, 4,000 metres, Men","Team Pursuit, 4,000 metres, Men",Cycling Track,10,False,Summer,True,Men
+472,"Fencing,Foil, Team, Men","Foil, Team, Men",Fencing,11,False,Summer,True,Men
+473,"Cycling Track,Tandem Sprint, 2,000 metres, Men","Tandem Sprint, 2,000 metres, Men",Cycling Track,10,False,Summer,True,Men
+474,"Waterskiing,Slalom, Men","Slalom, Men",Waterskiing,61,False,Summer,False,Men
+475,"Shooting,Running Target, 50 metres, Men","Running Target, 50 metres, Men",Shooting,5,False,Summer,False,Men
+476,"Equestrian Jumping,Team, Open","Team, Open",Equestrian Jumping,38,False,Summer,True,Open
+477,"Cycling Track,Madison, Men","Madison, Men",Cycling Track,10,False,Summer,True,Men
+478,"Cycling BMX Racing,BMX, Men","BMX, Men",Cycling BMX Racing,62,False,Summer,False,Men
+479,"Diving,Synchronized Platform, Men","Synchronized Platform, Men",Diving,3,False,Summer,True,Men
+480,"Cycling BMX Racing,BMX, Women","BMX, Women",Cycling BMX Racing,62,False,Summer,False,Women
+481,"Cycling Track,Keirin, Men","Keirin, Men",Cycling Track,10,False,Summer,False,Men
+482,"Cycling Track,Team Sprint, Women","Team Sprint, Women",Cycling Track,10,False,Summer,True,Women
+483,"Golf,Individual, Women","Individual, Women",Golf,21,False,Summer,False,Women
+484,"Rugby Sevens,Rugby Sevens, Women","Rugby Sevens, Women",Rugby Sevens,63,False,Summer,True,Women
+485,"Skateboarding,Street, Men","Street, Men",Skateboarding,64,False,Summer,False,Men
+486,"Taekwondo,Finweight, Men","Finweight, Men",Taekwondo,19,True,Summer,False,Men
+487,"Taekwondo,Bantamweight, Men","Bantamweight, Men",Taekwondo,19,True,Summer,False,Men
+488,"Canoe Slalom,Canadian Singles, Slalom, Men","Canadian Singles, Slalom, Men",Canoe Slalom,40,False,Summer,False,Men
+489,"Rowing,Coxed Fours, Men","Coxed Fours, Men",Rowing,7,False,Summer,True,Men
+490,"Water Polo,Water Polo, Men","Water Polo, Men",Water Polo,65,False,Summer,True,Men
+491,"Sailing,Skiff, Open","Skiff, Open",Sailing,17,False,Summer,True,Open
+492,"Sailing,One Person Heavyweight Dinghy, Men","One Person Heavyweight Dinghy, Men",Sailing,17,False,Summer,False,Men
+493,"Sailing,Two Person Dinghy, Women","Two Person Dinghy, Women",Sailing,17,False,Summer,True,Women
+494,"Snowboarding,Halfpipe, Women","Halfpipe, Women",Snowboarding,48,False,Winter,False,Women
+495,"Bobsleigh,Four, Open","Four, Open",Bobsleigh,22,False,Winter,True,Open
+496,"Karate,Kumite, >75 kg, Men","Kumite, >75 kg, Men",Karate,41,True,Summer,False,Men
+497,"Snowboarding,Slopestyle, Women","Slopestyle, Women",Snowboarding,48,False,Winter,False,Women
+498,"Snowboarding,Big Air, Women","Big Air, Women",Snowboarding,48,False,Winter,False,Women
+499,"Marathon Swimming,10 kilometres Open Water, Men","10 kilometres Open Water, Men",Marathon Swimming,53,False,Summer,False,Men
+500,"Shooting,Free Rifle, Three Positions, 300 metres, Men","Free Rifle, Three Positions, 300 metres, Men",Shooting,5,False,Summer,False,Men
+501,"Luge,Doubles, Open","Doubles, Open",Luge,45,False,Winter,True,Open
+502,"Bowling,Individual, Men","Individual, Men",Bowling,66,False,Summer,False,Men
+503,"Taekwondo,Finweight, Women","Finweight, Women",Taekwondo,19,True,Summer,False,Women
+504,"Taekwondo,Bantamweight, Women","Bantamweight, Women",Taekwondo,19,True,Summer,False,Women
+505,"Taekwondo,Lightweight, Women","Lightweight, Women",Taekwondo,19,True,Summer,False,Women
+506,"Badminton,Doubles, Women","Doubles, Women",Badminton,35,False,Summer,True,Women
+507,"Softball,Softball, Women","Softball, Women",Softball,67,False,Summer,True,Women
+508,"Shooting,Double Trap, Women","Double Trap, Women",Shooting,5,False,Summer,False,Women
+509,"Wushu,Daoshu & Gunshu, Men","Daoshu & Gunshu, Men",Wushu,39,True,Summer,False,Men
+510,"Wushu,Nanquan & Nangun, Men","Nanquan & Nangun, Men",Wushu,39,True,Summer,False,Men
+511,"Wushu,Taijiquan & Taijijuan, Men","Taijiquan & Taijijuan, Men",Wushu,39,True,Summer,False,Men
+512,"Wushu,Nanquan & Nandao, Women","Nanquan & Nandao, Women",Wushu,39,True,Summer,False,Women
+513,"Wushu,Jianshu & Qiangshu, Women","Jianshu & Qiangshu, Women",Wushu,39,True,Summer,False,Women
+514,"Wushu,Taijiquan & Taijijuan, Women","Taijiquan & Taijijuan, Women",Wushu,39,True,Summer,False,Women
+515,"Badminton,Doubles, Men","Doubles, Men",Badminton,35,False,Summer,True,Men
+516,"Karate,Kata, Men","Kata, Men",Karate,41,True,Summer,False,Men
+517,"Karate,Kumite, ≤55 kg, Women","Kumite, ≤55 kg, Women",Karate,41,True,Summer,False,Women
+518,"Table Tennis,Doubles, Mixed","Doubles, Mixed",Table Tennis,46,False,Summer,True,Mixed
+519,"Equestrian Jumping,Individual, Men","Individual, Men",Equestrian Jumping,38,False,Summer,False,Men
+520,"Shooting,Dueling Pistol, 30 metres, Men","Dueling Pistol, 30 metres, Men",Shooting,5,False,Summer,False,Men
+521,"Shooting,Military Rifle, Three Positions, 300 metres, Men","Military Rifle, Three Positions, 300 metres, Men",Shooting,5,False,Summer,False,Men
+522,"Shooting,Military Rifle, Any Position, 600 metres, Men","Military Rifle, Any Position, 600 metres, Men",Shooting,5,False,Summer,False,Men
+523,"Cycling Track,50 kilometres, Men","50 kilometres, Men",Cycling Track,10,False,Summer,False,Men
+524,"Equestrian Dressage,Team, Open","Team, Open",Equestrian Dressage,50,False,Summer,True,Open
+525,"Equestrian Eventing,Individual, Men","Individual, Men",Equestrian Eventing,49,False,Summer,False,Men
+526,"Equestrian Eventing,Team, Men","Team, Men",Equestrian Eventing,49,False,Summer,True,Men
+527,"Equestrian Jumping,Team, Men","Team, Men",Equestrian Jumping,38,False,Summer,True,Men
+528,"Rowing,Coxed Pairs, Men","Coxed Pairs, Men",Rowing,7,False,Summer,True,Men
+529,"Speed Skiing,Individual, Men","Individual, Men",Speed Skiing,68,False,Winter,False,Men
+530,"Rowing,Lightweight Coxless Fours, Men","Lightweight Coxless Fours, Men",Rowing,7,False,Summer,True,Men
+531,"Freestyle Skiing,Ski Cross, Women","Ski Cross, Women",Freestyle Skiing,43,False,Winter,False,Women
+532,"Freestyle Skiing,Slopestyle, Women","Slopestyle, Women",Freestyle Skiing,43,False,Winter,False,Women
+533,"Sailing,Skiff, Women","Skiff, Women",Sailing,17,False,Summer,True,Women
+534,"Cycling BMX Freestyle,Park, Women","Park, Women",Cycling BMX Freestyle,58,False,Summer,False,Women
+535,"Skateboarding,Park, Women","Park, Women",Skateboarding,64,False,Summer,False,Women
+536,"Swimming,1,500 metres Freestyle, Women","1,500 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+537,"Freestyle Skiing,Big Air, Women","Big Air, Women",Freestyle Skiing,43,False,Winter,False,Women
+538,"Rugby Sevens,Rugby Sevens, Men","Rugby Sevens, Men",Rugby Sevens,63,False,Summer,True,Men
+539,"Nordic Combined,Team, Men","Team, Men",Nordic Combined,54,False,Winter,True,Men
+540,"Ski Jumping,Large Hill, Team, Men","Large Hill, Team, Men",Ski Jumping,55,False,Winter,True,Men
+541,"Canoe Slalom,Canadian Doubles, Slalom, Men","Canadian Doubles, Slalom, Men",Canoe Slalom,40,False,Summer,True,Men
+542,"Cycling Track,Team Sprint, Men","Team Sprint, Men",Cycling Track,10,False,Summer,True,Men
+543,"Snowboarding,Halfpipe, Men","Halfpipe, Men",Snowboarding,48,False,Winter,False,Men
+544,"Snowboarding,Parallel Giant Slalom, Women","Parallel Giant Slalom, Women",Snowboarding,48,False,Winter,False,Women
+545,"Freestyle Skiing,Ski Cross, Men","Ski Cross, Men",Freestyle Skiing,43,False,Winter,False,Men
+546,"Nordic Combined,Normal Hill / 10 km, Individual, Men","Normal Hill / 10 km, Individual, Men",Nordic Combined,54,False,Winter,False,Men
+547,"Nordic Combined,Large Hill / 10 km, Individual, Men","Large Hill / 10 km, Individual, Men",Nordic Combined,54,False,Winter,False,Men
+548,"Snowboarding,Parallel Giant Slalom, Men","Parallel Giant Slalom, Men",Snowboarding,48,False,Winter,False,Men
+549,"Freestyle Skiing,Slopestyle, Men","Slopestyle, Men",Freestyle Skiing,43,False,Winter,False,Men
+550,"Luge,Team Relay, Mixed","Team Relay, Mixed",Luge,45,False,Winter,True,Mixed
+551,"Snowboarding,Parallel Slalom, Women","Parallel Slalom, Women",Snowboarding,48,False,Winter,False,Women
+552,"Alpine Skiing,Team, Mixed","Team, Mixed",Alpine Skiing,29,False,Winter,True,Mixed
+553,"Snowboarding,Slopestyle, Men","Slopestyle, Men",Snowboarding,48,False,Winter,False,Men
+554,"Snowboarding,Big Air, Men","Big Air, Men",Snowboarding,48,False,Winter,False,Men
+555,"Sport Climbing,Combined, Men","Combined, Men",Sport Climbing,69,False,Summer,False,Men
+556,"Curling,Mixed Doubles, Mixed","Mixed Doubles, Mixed",Curling,70,False,Winter,True,Mixed
+557,"Figure Skating,Team, Mixed","Team, Mixed",Figure Skating,36,False,Winter,True,Mixed
+558,"Ice Hockey,Ice Hockey, Women","Ice Hockey, Women",Ice Hockey,56,False,Winter,True,Women
+559,"Skeleton,Skeleton, Women","Skeleton, Women",Skeleton,23,False,Winter,False,Women
+560,"Ski Jumping,Normal Hill, Individual, Women","Normal Hill, Individual, Women",Ski Jumping,55,False,Winter,False,Women
+561,"Ski Jumping,Normal Hill, Team, Mixed","Normal Hill, Team, Mixed",Ski Jumping,55,False,Winter,True,Mixed
+562,"Fencing,Épée, Masters and Amateurs, Individual, Men","Épée, Masters and Amateurs, Individual, Men",Fencing,11,False,Summer,False,Men
+563,"Sailing,6 metres, Open","6 metres, Open",Sailing,17,False,Summer,True,Open
+564,"Fencing,Foil, Team, Women","Foil, Team, Women",Fencing,11,False,Summer,True,Women
+565,"Basque pelota,Mano, Doubles, Men","Mano, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+566,"Basque pelota,Mano, Singles, Men","Mano, Singles, Men",Basque pelota,71,False,Summer,True,Men
+567,"Basque pelota,Pala Corta, Doubles, Men","Pala Corta, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+568,"Basque pelota,Frontenis, Doubles, Men","Frontenis, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+569,"Basque pelota,Frontenis, Doubles, Women","Frontenis, Doubles, Women",Basque pelota,71,False,Summer,True,Women
+570,"Fencing,Épée, Team, Women","Épée, Team, Women",Fencing,11,False,Summer,True,Women
+571,"Diving,Synchronized Springboard, Men","Synchronized Springboard, Men",Diving,3,False,Summer,True,Men
+572,"Shooting,Air Pistol, 10 metres, Team, Mixed","Air Pistol, 10 metres, Team, Mixed",Shooting,5,False,Summer,True,Mixed
+573,"Athletics,3,000 metres Race Walk, Men","3,000 metres Race Walk, Men",Athletics,1,False,Summer,False,Men
+574,"Cross Country Skiing,18 kilometres, Men","18 kilometres, Men",Cross Country Skiing,42,False,Winter,False,Men
+575,"Biathlon,3 × 7.5 kilometres Relay, Women","3 × 7.5 kilometres Relay, Women",Biathlon,47,False,Winter,True,Women
+576,"Freestyle Skiing,Halfpipe, Women","Halfpipe, Women",Freestyle Skiing,43,False,Winter,False,Women
+577,"Equestrian Eventing,Team, Open","Team, Open",Equestrian Eventing,49,False,Summer,True,Open
+578,"Cross Country Skiing,3 × 5 kilometres Relay, Women","3 × 5 kilometres Relay, Women",Cross Country Skiing,42,False,Winter,True,Women
+579,"Rowing,Coxed Fours, Women","Coxed Fours, Women",Rowing,7,False,Summer,True,Women
+580,"Rowing,Coxed Quadruple Sculls, Women","Coxed Quadruple Sculls, Women",Rowing,7,False,Summer,True,Women
+581,"Cross Country Skiing,20 kilometres, Women","20 kilometres, Women",Cross Country Skiing,42,False,Winter,False,Women
+582,"Equestrian Dressage,Individual, Men","Individual, Men",Equestrian Dressage,50,False,Summer,False,Men
+583,"Art Competitions,Painting, Graphic Arts, Open","Painting, Graphic Arts, Open",Art Competitions,13,False,Summer,False,Open
+584,"Art Competitions,Painting, Paintings, Open","Painting, Paintings, Open",Art Competitions,13,False,Summer,False,Open
+585,"Gliding,Gliding, Open","Gliding, Open",Gliding,72,False,Summer,False,Open
+586,"Artistic Gymnastics,Team Portable Apparatus, Women","Team Portable Apparatus, Women",Artistic Gymnastics,9,False,Summer,True,Women
+587,"Rowing,Coxless Fours, Women","Coxless Fours, Women",Rowing,7,False,Summer,True,Women
+588,"Snowboarding,Giant Slalom, Women","Giant Slalom, Women",Snowboarding,48,False,Winter,False,Women
+589,"Snowboarding,Parallel Slalom, Men","Parallel Slalom, Men",Snowboarding,48,False,Winter,False,Men
+590,"Art Competitions,Painting, Open","Painting, Open",Art Competitions,13,False,Summer,False,Open
+591,"Artistic Swimming,Team, Women","Team, Women",Artistic Swimming,15,False,Summer,True,Women
+592,"Wushu,Sanshou (≤60 kilograms), Women","Sanshou (≤60 kilograms), Women",Wushu,39,True,Summer,False,Women
+593,"Karate,Kumite, ≤61 kg, Women","Kumite, ≤61 kg, Women",Karate,41,True,Summer,False,Women
+594,"Shooting,Trap, Team, Mixed","Trap, Team, Mixed",Shooting,5,False,Summer,True,Mixed
+595,"Fencing,Foil, Masters, Individual, Men","Foil, Masters, Individual, Men",Fencing,11,False,Summer,False,Men
+596,"Fencing,Épée, Masters, Individual, Men","Épée, Masters, Individual, Men",Fencing,11,False,Summer,False,Men
+597,"Shooting,Free Rifle, Prone, 600 metres, Men","Free Rifle, Prone, 600 metres, Men",Shooting,5,False,Summer,False,Men
+598,"Shooting,Free Rifle, 400, 600 and 800 metres, Team, Men","Free Rifle, 400, 600 and 800 metres, Team, Men",Shooting,5,False,Summer,True,Men
+599,"Polo,Polo, Men","Polo, Men",Polo,73,False,Summer,True,Men
+600,"Sailing,8 metres, Open","8 metres, Open",Sailing,17,False,Summer,True,Open
+601,"Bobsleigh,Four/Five, Men","Four/Five, Men",Bobsleigh,22,False,Winter,True,Men
+602,"Equestrian Dressage,Team, Men","Team, Men",Equestrian Dressage,50,False,Summer,True,Men
+603,"Basque pelota,Paleta Cuero, Doubles, Men","Paleta Cuero, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+604,"Basque pelota,Paleta Goma, Doubles, Men","Paleta Goma, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+605,"Waterskiing,Tricks, Men","Tricks, Men",Waterskiing,61,False,Summer,False,Men
+606,"Hockey,Hockey, Women","Hockey, Women",Hockey,33,False,Summer,True,Women
+607,"Snowboarding,Giant Slalom, Men","Giant Slalom, Men",Snowboarding,48,False,Winter,False,Men
+608,"Archery,Au Chapelet, 33 metres, Men","Au Chapelet, 33 metres, Men",Archery,20,False,Summer,False,Men
+609,"Archery,Au Chapelet, 50 metres, Men","Au Chapelet, 50 metres, Men",Archery,20,False,Summer,False,Men
+610,"Archery,Au Cordon Doré, 33 metres, Men","Au Cordon Doré, 33 metres, Men",Archery,20,False,Summer,False,Men
+611,"Archery,Au Cordon Doré, 50 metres, Men","Au Cordon Doré, 50 metres, Men",Archery,20,False,Summer,False,Men
+612,"Archery,Sur La Perche À La Herse, Men","Sur La Perche À La Herse, Men",Archery,20,False,Summer,False,Men
+613,"Archery,Sur La Perche À La Pyramide, Men","Sur La Perche À La Pyramide, Men",Archery,20,False,Summer,False,Men
+614,"Archery,Championnat Du Monde, Men","Championnat Du Monde, Men",Archery,20,False,Summer,False,Men
+615,"Athletics,100 metres, Handicap, Men","100 metres, Handicap, Men",Athletics,1,False,Summer,False,Men
+616,"Athletics,400 metres Hurdles, Handicap, Men","400 metres Hurdles, Handicap, Men",Athletics,1,False,Summer,False,Men
+617,"Athletics,400 metres, Professionals, Men","400 metres, Professionals, Men",Athletics,1,False,Summer,False,Men
+618,"Athletics,1,500 metres, Professionals, Men","1,500 metres, Professionals, Men",Athletics,1,False,Summer,False,Men
+619,"Athletics,6-hour race, Professionals, Men","6-hour race, Professionals, Men",Athletics,1,False,Summer,False,Men
+620,"Athletics,110 metres Hurdles, Professionals, Men","110 metres Hurdles, Professionals, Men",Athletics,1,False,Summer,False,Men
+621,"Athletics,2,500 metres Steeplechase, Professionals, Men","2,500 metres Steeplechase, Professionals, Men",Athletics,1,False,Summer,False,Men
+622,"Automobile Racing,Paris-Toulouse-Paris, Cars, Men","Paris-Toulouse-Paris, Cars, Men",Automobile Racing,74,False,Summer,False,Men
+623,"Cycling Track,Team Sprint, Professionals, Men","Team Sprint, Professionals, Men",Cycling Track,10,False,Summer,True,Men
+624,"Cycling Track,50 kilometres, Professionals, Men","50 kilometres, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+625,"Cycling Track,100 kilometres, Professionals, Men","100 kilometres, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+626,"Cycling Track,100 miles, Professionals, Men","100 miles, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+627,"Equestrian Dressage,Hacks and Hunter Combined, Open","Hacks and Hunter Combined, Open",Equestrian Dressage,50,False,Summer,False,Open
+628,"Equestrian Driving,Four-In-Hand Competition, Open","Four-In-Hand Competition, Open",Equestrian Driving,75,False,Summer,False,Open
+629,"Equestrian Jumping,Long Jump, Open","Long Jump, Open",Equestrian Jumping,38,False,Summer,False,Open
+630,"Equestrian Jumping,High Jump, Open","High Jump, Open",Equestrian Jumping,38,False,Summer,False,Open
+631,"Fencing,Sabre, Masters, Individual, Men","Sabre, Masters, Individual, Men",Fencing,11,False,Summer,False,Men
+632,"Rowing,Coxless Pairs, Boys","Coxless Pairs, Boys",Rowing,7,False,Summer,True,Boys
+633,"Rowing,Coxless Fours, Boys","Coxless Fours, Boys",Rowing,7,False,Summer,True,Boys
+634,"Rowing,Eights, Boys","Eights, Boys",Rowing,7,False,Summer,True,Boys
+635,"Shooting,Free Pistol, 50 metres, Team, Men","Free Pistol, 50 metres, Team, Men",Shooting,5,False,Summer,True,Men
+636,"Shooting,Free Rifle, Three Positions, 300 metres, Team, Men","Free Rifle, Three Positions, 300 metres, Team, Men",Shooting,5,False,Summer,True,Men
+637,"Shooting,Free Rifle, Kneeling, 300 metres, Men","Free Rifle, Kneeling, 300 metres, Men",Shooting,5,False,Summer,False,Men
+638,"Shooting,Free Rifle, Prone, 300 metres, Men","Free Rifle, Prone, 300 metres, Men",Shooting,5,False,Summer,False,Men
+639,"Shooting,Free Rifle, Standing, 300 metres, Men","Free Rifle, Standing, 300 metres, Men",Shooting,5,False,Summer,False,Men
+640,"Swimming,1,000 metres Freestyle, Men","1,000 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+641,"Swimming,4,000 metres Freestyle, Men","4,000 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+642,"Cycling Track,5,000 metres, Men","5,000 metres, Men",Cycling Track,10,False,Summer,False,Men
+643,"Cycling Track,20 kilometres, Men","20 kilometres, Men",Cycling Track,10,False,Summer,False,Men
+644,"Cycling Track,100 kilometres, Men","100 kilometres, Men",Cycling Track,10,False,Summer,False,Men
+645,"Shooting,Free Pistol, 50 yards, Men","Free Pistol, 50 yards, Men",Shooting,5,False,Summer,False,Men
+646,"Shooting,Free Pistol, 50 yards, Team, Men","Free Pistol, 50 yards, Team, Men",Shooting,5,False,Summer,True,Men
+647,"Rowing,Coxed Fours, Outriggers, Men","Coxed Fours, Outriggers, Men",Rowing,7,False,Summer,True,Men
+648,"Archery,Target Archery, 28 metres, Individual, Men","Target Archery, 28 metres, Individual, Men",Archery,20,False,Summer,False,Men
+649,"Archery,Target Archery, 33 metres, Individual, Men","Target Archery, 33 metres, Individual, Men",Archery,20,False,Summer,False,Men
+650,"Archery,Target Archery, 50 metres, Individual, Men","Target Archery, 50 metres, Individual, Men",Archery,20,False,Summer,False,Men
+651,"Archery,Target Archery, 28 metres, Team, Men","Target Archery, 28 metres, Team, Men",Archery,20,False,Summer,True,Men
+652,"Archery,Target Archery, 33 metres, Team, Men","Target Archery, 33 metres, Team, Men",Archery,20,False,Summer,True,Men
+653,"Archery,Target Archery, 50 metres, Team, Men","Target Archery, 50 metres, Team, Men",Archery,20,False,Summer,True,Men
+654,"Archery,Pole Archery, Small Birds, Individual, Men","Pole Archery, Small Birds, Individual, Men",Archery,20,False,Summer,False,Men
+655,"Archery,Pole Archery, Large Birds, Individual, Men","Pole Archery, Large Birds, Individual, Men",Archery,20,False,Summer,False,Men
+656,"Archery,Pole Archery, Small Birds, Team, Men","Pole Archery, Small Birds, Team, Men",Archery,20,False,Summer,True,Men
+657,"Archery,Pole Archery, Large Birds, Team, Men","Pole Archery, Large Birds, Team, Men",Archery,20,False,Summer,True,Men
+658,"Art Competitions,Literature, Open","Literature, Open",Art Competitions,13,False,Summer,False,Open
+659,"Artistic Gymnastics,Team All-Around, Swedish System, Men","Team All-Around, Swedish System, Men",Artistic Gymnastics,9,False,Summer,True,Men
+660,"Athletics,3,000 metres, Team, Men","3,000 metres, Team, Men",Athletics,1,False,Summer,True,Men
+661,"Athletics,Cross-Country, Team, Men","Cross-Country, Team, Men",Athletics,1,False,Summer,True,Men
+662,"Diving,Plain High, Men","Plain High, Men",Diving,3,False,Summer,False,Men
+663,"Equestrian Vaulting,Individual, Men","Individual, Men",Equestrian Vaulting,76,False,Summer,False,Men
+664,"Equestrian Vaulting,Team, Men","Team, Men",Equestrian Vaulting,76,False,Summer,True,Men
+665,"Shooting,Military Pistol, Team, Men","Military Pistol, Team, Men",Shooting,5,False,Summer,True,Men
+666,"Shooting,Military Rifle, Prone, 300 metres, Team, Men","Military Rifle, Prone, 300 metres, Team, Men",Shooting,5,False,Summer,True,Men
+667,"Shooting,Military Rifle, Prone, 600 metres, Team, Men","Military Rifle, Prone, 600 metres, Team, Men",Shooting,5,False,Summer,True,Men
+668,"Shooting,Military Rifle, Standing, 300 metres, Men","Military Rifle, Standing, 300 metres, Men",Shooting,5,False,Summer,False,Men
+669,"Shooting,Military Rifle, Standing, 300 metres, Team, Men","Military Rifle, Standing, 300 metres, Team, Men",Shooting,5,False,Summer,True,Men
+670,"Shooting,Military Rifle, Prone, 300 and 600 metres, Team, Men","Military Rifle, Prone, 300 and 600 metres, Team, Men",Shooting,5,False,Summer,True,Men
+671,"Shooting,Small-Bore Rifle, Standing, 50 metres, Men","Small-Bore Rifle, Standing, 50 metres, Men",Shooting,5,False,Summer,False,Men
+672,"Shooting,Smal-Bore Rifle, Standing, 50 metres, Team, Men","Smal-Bore Rifle, Standing, 50 metres, Team, Men",Shooting,5,False,Summer,True,Men
+673,"Shooting,Trap, Team, Men","Trap, Team, Men",Shooting,5,False,Summer,True,Men
+674,"Shooting,Unknown Event, Men","Unknown Event, Men",Shooting,5,False,Summer,False,Men
+675,"Tug-Of-War,Tug-Of-War, Men","Tug-Of-War, Men",Tug-Of-War,77,True,Summer,True,Men
+676,"Diving,Plain High, Women","Plain High, Women",Diving,3,False,Summer,False,Women
+677,"Savate,Savate, Men","Savate, Men",Savate,78,True,Summer,False,Men
+678,"Speed Skating,Allround, Men","Allround, Men",Speed Skating,44,False,Winter,False,Men
+679,"Art Competitions,Literature, Epic Works, Open","Literature, Epic Works, Open",Art Competitions,13,False,Summer,False,Open
+680,"Art Competitions,Literature, Lyric Works, Open","Literature, Lyric Works, Open",Art Competitions,13,False,Summer,False,Open
+681,"Art Competitions,Music, Compositions For Orchestra, Open","Music, Compositions For Orchestra, Open",Art Competitions,13,False,Summer,False,Open
+682,"Art Competitions,Music, Instrumental And Chamber, Open","Music, Instrumental And Chamber, Open",Art Competitions,13,False,Summer,False,Open
+683,"Art Competitions,Painting, Drawings And Water Colors, Open","Painting, Drawings And Water Colors, Open",Art Competitions,13,False,Summer,False,Open
+684,"Art Competitions,Sculpturing, Medals And Reliefs, Open","Sculpturing, Medals And Reliefs, Open",Art Competitions,13,False,Summer,False,Open
+685,"Art Competitions,Sculpturing, Statues, Open","Sculpturing, Statues, Open",Art Competitions,13,False,Summer,False,Open
+686,"Art Competitions,Architecture, Designs For Town Planning, Open","Architecture, Designs For Town Planning, Open",Art Competitions,13,False,Summer,False,Open
+687,"Art Competitions,Painting, Unknown Event, Open","Painting, Unknown Event, Open",Art Competitions,13,False,Summer,False,Open
+688,"Art Competitions,Sculpturing, Unknown Event, Open","Sculpturing, Unknown Event, Open",Art Competitions,13,False,Summer,False,Open
+689,"Art Competitions,Sculpturing, Medals, Open","Sculpturing, Medals, Open",Art Competitions,13,False,Summer,False,Open
+690,"Art Competitions,Sculpturing, Reliefs, Open","Sculpturing, Reliefs, Open",Art Competitions,13,False,Summer,False,Open
+691,"Canoe Marathon,Kayak Singles, 10,000 metres, Men","Kayak Singles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,False,Men
+692,"Canoe Marathon,Kayak Doubles, 10,000 metres, Men","Kayak Doubles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,True,Men
+693,"Canoe Marathon,Folding Kayak Singles, 10,000 metres, Men","Folding Kayak Singles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,False,Men
+694,"Canoe Marathon,Folding Kayak Doubles, 10,000 metres, Men","Folding Kayak Doubles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,True,Men
+695,"Canoe Marathon,Canadian Doubles, 10,000 metres, Men","Canadian Doubles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,True,Men
+696,"Canoe Sprint,Kayak Relay, 4 × 500 metres, Men","Kayak Relay, 4 × 500 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+697,"Athletics,1,500 metres Wheelchair, Men","1,500 metres Wheelchair, Men",Athletics,1,False,Summer,False,Men
+698,"Short Track Speed Skating,3,000 m, Men","3,000 m, Men",Short Track Speed Skating,57,False,Winter,False,Men
+699,"Short Track Speed Skating,3,000 m, Women","3,000 m, Women",Short Track Speed Skating,57,False,Winter,False,Women
+700,"Short Track Speed Skating,5,000 metres Relay, Men","5,000 metres Relay, Men",Short Track Speed Skating,57,False,Winter,True,Men
+701,"Bobsleigh,Two, Women","Two, Women",Bobsleigh,22,False,Winter,True,Women
+702,"3x3 Basketball,3x3 Basketball, Men","3x3 Basketball, Men",3x3 Basketball,80,False,Summer,True,Men
+703,"Cycling Track,Madison, Women","Madison, Women",Cycling Track,10,False,Summer,True,Women
+704,"Skateboarding,Street, Women","Street, Women",Skateboarding,64,False,Summer,False,Women
+705,"Triathlon,Relay, Mixed","Relay, Mixed",Triathlon,28,False,Summer,True,Mixed
+706,"Wushu,Changquan, Men","Changquan, Men",Wushu,39,True,Summer,False,Men
+707,"Wushu,Jianshu & Qiangshu, Men","Jianshu & Qiangshu, Men",Wushu,39,True,Summer,False,Men
+708,"Wushu,Changquan, Women","Changquan, Women",Wushu,39,True,Summer,False,Women
+709,"Wushu,Daoshu & Gunshu, Women","Daoshu & Gunshu, Women",Wushu,39,True,Summer,False,Women
+710,"Karate,Kata, Women","Kata, Women",Karate,41,True,Summer,False,Women
+711,"Shooting,Military Pistol, 30 metres, Men","Military Pistol, 30 metres, Men",Shooting,5,False,Summer,False,Men
+712,"Art Competitions,Architecture, Open","Architecture, Open",Art Competitions,13,False,Summer,False,Open
+713,"Wushu,Sanshou (≤52 kilograms), Women","Sanshou (≤52 kilograms), Women",Wushu,39,True,Summer,False,Women
+714,"Diving,Synchronized Springboard, Women","Synchronized Springboard, Women",Diving,3,False,Summer,True,Women
+715,"Water Polo,Water Polo, Women","Water Polo, Women",Water Polo,65,False,Summer,True,Women
+716,"Judo,Team, Mixed","Team, Mixed",Judo,16,True,Summer,True,Mixed
+717,"Skateboarding,Park, Men","Park, Men",Skateboarding,64,False,Summer,False,Men
+718,"Artistic Gymnastics,Rope Climbing, Men","Rope Climbing, Men",Artistic Gymnastics,9,False,Summer,False,Men
+719,"Artistic Gymnastics,Side Horse, Men","Side Horse, Men",Artistic Gymnastics,9,False,Summer,False,Men
+720,"Shooting,Running Target, Single Shot, Men","Running Target, Single Shot, Men",Shooting,5,False,Summer,False,Men
+721,"Shooting,Running Target, Single Shot, Team, Men","Running Target, Single Shot, Team, Men",Shooting,5,False,Summer,True,Men
+722,"Shooting,Running Target, Double Shot, Men","Running Target, Double Shot, Men",Shooting,5,False,Summer,False,Men
+723,"Shooting,Running Target, Double Shot, Team, Men","Running Target, Double Shot, Team, Men",Shooting,5,False,Summer,True,Men
+724,"Military Ski Patrol,Military Ski Patrol, Men","Military Ski Patrol, Men",Military Ski Patrol,81,False,Winter,True,Men
+725,"Art Competitions,Literature, Dramatic Works, Open","Literature, Dramatic Works, Open",Art Competitions,13,False,Summer,False,Open
+726,"Art Competitions,Music, Compositions For Solo Or Chorus, Open","Music, Compositions For Solo Or Chorus, Open",Art Competitions,13,False,Summer,False,Open
+727,"Art Competitions,Painting, Applied Arts, Open","Painting, Applied Arts, Open",Art Competitions,13,False,Summer,False,Open
+728,"Ice Stock Sport,Target Shooting, Men","Target Shooting, Men",Ice Stock Sport,82,False,Winter,False,Men
+729,"Ice Stock Sport,Distance Shooting, Men","Distance Shooting, Men",Ice Stock Sport,82,False,Winter,False,Men
+730,"Ice Stock Sport,Team, Men","Team, Men",Ice Stock Sport,82,False,Winter,True,Men
+731,"Art Competitions,Architecture, Architectural Designs, Open","Architecture, Architectural Designs, Open",Art Competitions,13,False,Summer,False,Open
+732,"Art Competitions,Music, Unknown Event, Open","Music, Unknown Event, Open",Art Competitions,13,False,Summer,False,Open
+733,"Art Competitions,Sculpturing, Medals And Plaques, Open","Sculpturing, Medals And Plaques, Open",Art Competitions,13,False,Summer,False,Open
+734,"Canoe Marathon,Canadian Singles, 10,000 metres, Men","Canadian Singles, 10,000 metres, Men",Canoe Marathon,79,False,Summer,False,Men
+735,"Freestyle Skiing,Ballet, Men","Ballet, Men",Freestyle Skiing,43,False,Winter,False,Men
+736,"Freestyle Skiing,Ballet, Women","Ballet, Women",Freestyle Skiing,43,False,Winter,False,Women
+737,"Glíma,Glíma, Men","Glíma, Men",Glíma,83,True,Summer,False,Men
+738,"Shooting,Free Pistol, 30 metres, Men","Free Pistol, 30 metres, Men",Shooting,5,False,Summer,False,Men
+739,"Shooting,Military Pistol, 25 metres, Men","Military Pistol, 25 metres, Men",Shooting,5,False,Summer,False,Men
+740,"Shooting,Muzzle-Loading Pistol, 25 metres, Men","Muzzle-Loading Pistol, 25 metres, Men",Shooting,5,False,Summer,False,Men
+741,"Shooting,Free Rifle, Any Position, 300 metres, Men","Free Rifle, Any Position, 300 metres, Men",Shooting,5,False,Summer,False,Men
+742,"Shooting,Military Rifle, 200 metres, Men","Military Rifle, 200 metres, Men",Shooting,5,False,Summer,False,Men
+743,"Swimming,500 metres Freestyle, Men","500 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+744,"Swimming,1,200 metres Freestyle, Men","1,200 metres Freestyle, Men",Swimming,6,False,Summer,False,Men
+745,"Weightlifting,Unlimited, One Hand, Men","Unlimited, One Hand, Men",Weightlifting,18,True,Summer,False,Men
+746,"Weightlifting,Unlimited, Two Hands, Men","Unlimited, Two Hands, Men",Weightlifting,18,True,Summer,False,Men
+747,"Athletics,800 metres, Handicap, Men","800 metres, Handicap, Men",Athletics,1,False,Summer,False,Men
+748,"Athletics,1,500 metres, Handicap, Men","1,500 metres, Handicap, Men",Athletics,1,False,Summer,False,Men
+749,"Swimming,Underwater Swimming, Men","Underwater Swimming, Men",Swimming,6,False,Summer,False,Men
+750,"Shooting,Military Rifle, 200/500/600/800/900/1,000 yards, Team, Men","Military Rifle, 200/500/600/800/900/1,000 yards, Team, Men",Shooting,5,False,Summer,True,Men
+751,"Artistic Gymnastics,Team All-Around, Free System, Men","Team All-Around, Free System, Men",Artistic Gymnastics,9,False,Summer,True,Men
+752,"Rowing,Coxed Fours, Inriggers, Men","Coxed Fours, Inriggers, Men",Rowing,7,False,Summer,True,Men
+753,"Shooting,Military Rifle, 200, 400, 500 and 600 metres, Team, Men","Military Rifle, 200, 400, 500 and 600 metres, Team, Men",Shooting,5,False,Summer,True,Men
+754,"Shooting,Small-Bore Rifle, Any Position, 50 metres, Men","Small-Bore Rifle, Any Position, 50 metres, Men",Shooting,5,False,Summer,False,Men
+755,"Shooting,Small-Bore Rifle, Prone, 50 metres, Team, Men","Small-Bore Rifle, Prone, 50 metres, Team, Men",Shooting,5,False,Summer,True,Men
+756,"Shooting,Small-Bore Rifle, Disappearing Target, 25 metres, Men","Small-Bore Rifle, Disappearing Target, 25 metres, Men",Shooting,5,False,Summer,False,Men
+757,"Tennis,Singles, Covered Courts, Women","Singles, Covered Courts, Women",Tennis,8,False,Summer,False,Women
+758,"Wrestling,Middleweight A, Greco-Roman, Men","Middleweight A, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+759,"Shooting,Military Rifle, Prone, 300 metres, Men","Military Rifle, Prone, 300 metres, Men",Shooting,5,False,Summer,False,Men
+760,"Shooting,Military Rifle, Prone, 600 metres, Men","Military Rifle, Prone, 600 metres, Men",Shooting,5,False,Summer,False,Men
+761,"Athletics,800 metres Wheelchair, Women","800 metres Wheelchair, Women",Athletics,1,False,Summer,False,Women
+762,"Curling,Curling, Men","Curling, Men",Curling,70,False,Winter,True,Men
+763,"Curling,Curling, Women","Curling, Women",Curling,70,False,Winter,True,Women
+764,"Cycling Track,333⅓ metres Time Trial, Men","333⅓ metres Time Trial, Men",Cycling Track,10,False,Summer,False,Men
+765,"Cycling Track,10,000 metres, Men","10,000 metres, Men",Cycling Track,10,False,Summer,False,Men
+766,"Cycling Track,12-Hours Race, Men","12-Hours Race, Men",Cycling Track,10,False,Summer,False,Men
+767,"Athletics,2,500 metres Steeplechase, Men","2,500 metres Steeplechase, Men",Athletics,1,False,Summer,False,Men
+768,"Athletics,2,500 metres Steeplechase, Handicap, Men","2,500 metres Steeplechase, Handicap, Men",Athletics,1,False,Summer,False,Men
+769,"Swimming,200 metres Obstacle Course, Men","200 metres Obstacle Course, Men",Swimming,6,False,Summer,False,Men
+770,"Athletics,Discus Throw, Both Hands, Men","Discus Throw, Both Hands, Men",Athletics,1,False,Summer,False,Men
+771,"Winter Pentathlon,Winter Pentathlon, Men","Winter Pentathlon, Men",Winter Pentathlon,84,False,Winter,False,Men
+772,"Alpine Skiing,Giant Slalom, LW2, Men","Giant Slalom, LW2, Men",Alpine Skiing,29,False,Winter,False,Men
+773,"Alpine Skiing,Giant Slalom, LW4, Men","Giant Slalom, LW4, Men",Alpine Skiing,29,False,Winter,False,Men
+774,"Alpine Skiing,Giant Slalom, LW6/8, Men","Giant Slalom, LW6/8, Men",Alpine Skiing,29,False,Winter,False,Men
+775,"Taekwondo,Middleweight, Women","Middleweight, Women",Taekwondo,19,True,Summer,False,Women
+776,"Cross Country Skiing,5 kilometres, B1, Women","5 kilometres, B1, Women",Cross Country Skiing,42,False,Winter,True,Women
+777,"Sport Climbing,Combined, Women","Combined, Women",Sport Climbing,69,False,Summer,False,Women
+778,"Bobsleigh,Monobob, Women","Monobob, Women",Bobsleigh,22,False,Winter,True,Women
+779,"Freestyle Skiing,Big Air, Men","Big Air, Men",Freestyle Skiing,43,False,Winter,False,Men
+780,"Snowboarding,Team Cross, Mixed","Team Cross, Mixed",Snowboarding,48,False,Winter,True,Mixed
+781,"Short Track Speed Skating,2,000 metres Relay, Mixed","2,000 metres Relay, Mixed",Short Track Speed Skating,57,False,Winter,True,Mixed
+782,"Waterskiing,Jumping, Men","Jumping, Men",Waterskiing,61,False,Summer,False,Men
+783,"Athletics,60 metres, Men","60 metres, Men",Athletics,1,False,Summer,False,Men
+784,"Athletics,200 metres Hurdles, Men","200 metres Hurdles, Men",Athletics,1,False,Summer,False,Men
+785,"Athletics,110 metres Hurdles, Handicap, Men","110 metres Hurdles, Handicap, Men",Athletics,1,False,Summer,False,Men
+786,"Alpinism,Alpinism, Open","Alpinism, Open",Alpinism,85,False,Winter,True,Open
+787,"Artistic Gymnastics,Parallel Bars, Teams, Men","Parallel Bars, Teams, Men",Artistic Gymnastics,9,False,Summer,True,Men
+788,"Swimming,100 metres Freestyle For Sailors, Men","100 metres Freestyle For Sailors, Men",Swimming,6,False,Summer,False,Men
+789,"Wrestling,Unlimited Class, Greco-Roman, Men","Unlimited Class, Greco-Roman, Men",Wrestling,12,True,Summer,False,Men
+790,"Shooting,Free Rifle, 1,000 yards, Men","Free Rifle, 1,000 yards, Men",Shooting,5,False,Summer,False,Men
+791,"Athletics,Shot Put, Both Hands, Men","Shot Put, Both Hands, Men",Athletics,1,False,Summer,False,Men
+792,"Athletics,Javelin Throw, Both Hands, Men","Javelin Throw, Both Hands, Men",Athletics,1,False,Summer,False,Men
+793,"Shooting,Dueling Pistol, 30 metres, Team, Men","Dueling Pistol, 30 metres, Team, Men",Shooting,5,False,Summer,True,Men
+794,"Shooting,Small-Bore Rifle, Disappearing Target, 25 metres, Team, Men","Small-Bore Rifle, Disappearing Target, 25 metres, Team, Men",Shooting,5,False,Summer,True,Men
+795,"Athletics,100 metres, Professionals, Handicap, Men","100 metres, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+796,"Athletics,400 metres, Professionals, Handicap, Men","400 metres, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+797,"Athletics,100 yards, Handicap, Men","100 yards, Handicap, Men",Athletics,1,False,Summer,False,Men
+798,"Athletics,120 yards Hurdles, Handicap, Men","120 yards Hurdles, Handicap, Men",Athletics,1,False,Summer,False,Men
+799,"Cycling Track,⅓ mile, Professionals, Men","⅓ mile, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+800,"Cycling Track,1 mile, Professionals, Men","1 mile, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+801,"Cycling Track,Australian Team Pursuit, Professionals, Men","Australian Team Pursuit, Professionals, Men",Cycling Track,10,False,Summer,True,Men
+802,"Cycling Track,1 mile, Handicap, Professionals, Men","1 mile, Handicap, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+803,"Cycling Track,2 miles, Handicap, Professionals, Men","2 miles, Handicap, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+804,"Swimming,300 metres Freestyle, Women","300 metres Freestyle, Women",Swimming,6,False,Summer,False,Women
+805,"Australian Rules Football,Australian Rules Football, Men","Australian Rules Football, Men",Australian Rules Football,86,False,Summer,True,Men
+806,"Shooting,Running Target, Single and Double Shot, Men","Running Target, Single and Double Shot, Men",Shooting,5,False,Summer,False,Men
+807,"Waterskiing,Slalom, Women","Slalom, Women",Waterskiing,61,False,Summer,False,Women
+808,"Waterskiing,Tricks, Women","Tricks, Women",Waterskiing,61,False,Summer,False,Women
+809,"Waterskiing,Jumping, Women","Jumping, Women",Waterskiing,61,False,Summer,False,Women
+810,"Bowling,Individual, Women","Individual, Women",Bowling,66,False,Summer,False,Women
+811,"Sailing,10 metres, Open","10 metres, Open",Sailing,17,False,Summer,True,Open
+812,"Sailing,12 metres, Open","12 metres, Open",Sailing,17,False,Summer,True,Open
+813,"Athletics,56-pound Weight Throw, Men","56-pound Weight Throw, Men",Athletics,1,False,Summer,False,Men
+814,"Pesäpallo,Pesäpallo, Men","Pesäpallo, Men",Pesäpallo,87,False,Summer,True,Men
+815,"Bandy,Bandy, Men","Bandy, Men",Bandy,88,False,Winter,True,Men
+816,"Cross Country Skiing,5 kilometres, B1, Men","5 kilometres, B1, Men",Cross Country Skiing,42,False,Winter,True,Men
+817,"Speed Skiing,Individual, Women","Individual, Women",Speed Skiing,68,False,Winter,False,Women
+818,"3x3 Basketball,3x3 Basketball, Women","3x3 Basketball, Women",3x3 Basketball,80,False,Summer,True,Women
+819,"Tennis,Singles, Handicap, Men","Singles, Handicap, Men",Tennis,8,False,Summer,False,Men
+820,"Tennis,Doubles, Handicap, Men","Doubles, Handicap, Men",Tennis,8,False,Summer,True,Men
+821,"Basque pelota,Cesta Punta, Doubles, Men","Cesta Punta, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+822,"Fencing,Sabre, Team, Women","Sabre, Team, Women",Fencing,11,False,Summer,True,Women
+823,"Speed Skating,Team Pursuit (8 laps), Men","Team Pursuit (8 laps), Men",Speed Skating,44,False,Winter,True,Men
+824,"Athletics,220 yards, Handicap, Men","220 yards, Handicap, Men",Athletics,1,False,Summer,False,Men
+825,"Athletics,440 yards, Handicap, Men","440 yards, Handicap, Men",Athletics,1,False,Summer,False,Men
+826,"Athletics,880 yards, Handicap, Men","880 yards, Handicap, Men",Athletics,1,False,Summer,False,Men
+827,"Athletics,1 mile, Handicap, Men","1 mile, Handicap, Men",Athletics,1,False,Summer,False,Men
+828,"Athletics,Pole Vault, Handicap, Men","Pole Vault, Handicap, Men",Athletics,1,False,Summer,False,Men
+829,"Athletics,56-pound Weight Throw, Handicap, Men","56-pound Weight Throw, Handicap, Men",Athletics,1,False,Summer,False,Men
+830,"Lacrosse,Lacrosse, Men","Lacrosse, Men",Lacrosse,89,False,Summer,True,Men
+831,"Rowing,Single Sculls, Intermediate, Men","Single Sculls, Intermediate, Men",Rowing,7,False,Summer,False,Men
+832,"Rowing,Single Sculls, Association, Men","Single Sculls, Association, Men",Rowing,7,False,Summer,False,Men
+833,"Athletics,1,600 metres Medley Relay, Men","1,600 metres Medley Relay, Men",Athletics,1,False,Summer,True,Men
+834,"Cycling Track,Team Pursuit, 1,980 yards, Men","Team Pursuit, 1,980 yards, Men",Cycling Track,10,False,Summer,True,Men
+835,"Canoe Sprint,Kayak Singles, 800 metres, Men","Kayak Singles, 800 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+836,"Canoe Sprint,Kayak Doubles, 800 metres, Men","Kayak Doubles, 800 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+837,"Canoe Sprint,Kayak Fours, 800 metres, Men","Kayak Fours, 800 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+838,"Canoe Sprint,Canadian Singles, 800 metres, Men","Canadian Singles, 800 metres, Men",Canoe Sprint,24,False,Summer,False,Men
+839,"Canoe Sprint,Canadian Doubles, 800 metres, Men","Canadian Doubles, 800 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+840,"Canoe Sprint,Canadian Fours, 800 metres, Men","Canadian Fours, 800 metres, Men",Canoe Sprint,24,False,Summer,True,Men
+841,"Dogsled Racing,Dog Sled Racing, Open","Dog Sled Racing, Open",Dogsled Racing,90,False,Winter,False,Open
+842,"Ice Hockey,Ice Hockey Exhibition, Men","Ice Hockey Exhibition, Men",Ice Hockey,56,False,Winter,True,Men
+843,"Alpine Skiing,Giant Slalom, LW2, Women","Giant Slalom, LW2, Women",Alpine Skiing,29,False,Winter,False,Women
+844,"Artistic Gymnastics,Club Swinging, Men","Club Swinging, Men",Artistic Gymnastics,9,False,Summer,False,Men
+845,"Athletics,400 metres, Handicap, Men","400 metres, Handicap, Men",Athletics,1,False,Summer,False,Men
+846,"Athletics,High Jump, Handicap, Men","High Jump, Handicap, Men",Athletics,1,False,Summer,False,Men
+847,"Athletics,Long Jump, Handicap, Men","Long Jump, Handicap, Men",Athletics,1,False,Summer,False,Men
+848,"Athletics,Shot Put, Handicap, Men","Shot Put, Handicap, Men",Athletics,1,False,Summer,False,Men
+849,"Athletics,Discus Throw, Handicap, Men","Discus Throw, Handicap, Men",Athletics,1,False,Summer,False,Men
+850,"Firefighting,Maneuvering, International, Volunteer Firefighters, Men","Maneuvering, International, Volunteer Firefighters, Men",Firefighting,91,True,Summer,True,Men
+851,"Swimming,50 yards Freestyle, Men","50 yards Freestyle, Men",Swimming,6,False,Summer,False,Men
+852,"Swimming,100 yards Freestyle, Men","100 yards Freestyle, Men",Swimming,6,False,Summer,False,Men
+853,"Swimming,220 yards Freestyle, Men","220 yards Freestyle, Men",Swimming,6,False,Summer,False,Men
+854,"Swimming,440 yards Freestyle, Men","440 yards Freestyle, Men",Swimming,6,False,Summer,False,Men
+855,"Swimming,880 yards Freestyle, Men","880 yards Freestyle, Men",Swimming,6,False,Summer,False,Men
+856,"Swimming,1 mile Freestyle, Men","1 mile Freestyle, Men",Swimming,6,False,Summer,False,Men
+857,"Swimming,440 yards, Handicap, Men","440 yards, Handicap, Men",Swimming,6,False,Summer,False,Men
+858,"Artistic Gymnastics,Tumbling, Men","Tumbling, Men",Artistic Gymnastics,9,False,Summer,False,Men
+859,"Artistic Gymnastics,Horizontal Bar, Teams, Men","Horizontal Bar, Teams, Men",Artistic Gymnastics,9,False,Summer,True,Men
+860,"Athletics,4,000 metres Steeplechase, Men","4,000 metres Steeplechase, Men",Athletics,1,False,Summer,False,Men
+861,"Athletics,5,000 metres, Professionals, Men","5,000 metres, Professionals, Men",Athletics,1,False,Summer,False,Men
+862,"Cycling Track,25 kilometres, Men","25 kilometres, Men",Cycling Track,10,False,Summer,False,Men
+863,"Cycling Track,24-Hours Race, Professionals, Men","24-Hours Race, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+864,"Sailing,Open, Open","Open, Open",Sailing,17,False,Summer,True,Open
+865,"Sailing,½-1 Ton, Open","½-1 Ton, Open",Sailing,17,False,Summer,True,Open
+866,"Sailing,1-2 Ton, Open","1-2 Ton, Open",Sailing,17,False,Summer,True,Open
+867,"Swimming,200 metres Team Swimming, Men","200 metres Team Swimming, Men",Swimming,6,False,Summer,True,Men
+868,"Artistic Gymnastics,Individual All-Around, Field Sports, Men","Individual All-Around, Field Sports, Men",Artistic Gymnastics,9,False,Summer,False,Men
+869,"Artistic Gymnastics,Individual All-Around, Apparatus Work, Men","Individual All-Around, Apparatus Work, Men",Artistic Gymnastics,9,False,Summer,False,Men
+870,"Swimming,4 × 50 yards Freestyle Relay, Men","4 × 50 yards Freestyle Relay, Men",Swimming,6,False,Summer,True,Men
+871,"Swimming,100 yards Backstroke, Men","100 yards Backstroke, Men",Swimming,6,False,Summer,False,Men
+872,"Swimming,440 yards Breaststroke, Men","440 yards Breaststroke, Men",Swimming,6,False,Summer,False,Men
+873,"Swimming,880 yards, Handicap, Men","880 yards, Handicap, Men",Swimming,6,False,Summer,False,Men
+874,"Bicycle Polo,Bicycle Polo, Men","Bicycle Polo, Men",Bicycle Polo,92,False,Summer,True,Men
+875,"Ice Stock Sport,Target Shooting, Women","Target Shooting, Women",Ice Stock Sport,82,False,Winter,False,Women
+876,"Ice Stock Sport,Team, Women","Team, Women",Ice Stock Sport,82,False,Winter,True,Women
+877,"Kendo,Embusen, Open","Embusen, Open",Kendo,93,False,Summer,False,Open
+878,"Kendo,Renshu, Open","Renshu, Open",Kendo,93,False,Summer,True,Open
+879,"Kendo,Shiai - Red-White, Open","Shiai - Red-White, Open",Kendo,93,False,Summer,False,Open
+880,"Kendo,Shiai - East-West, Open","Shiai - East-West, Open",Kendo,93,False,Summer,False,Open
+881,"Figure Skating,Special Figures, Men","Special Figures, Men",Figure Skating,36,False,Summer,False,Men
+882,"Athletics,1 mile, Men","1 mile, Men",Athletics,1,False,Summer,False,Men
+883,"Sailing,7 metres, Open","7 metres, Open",Sailing,17,False,Summer,True,Open
+884,"Alpine Skiing,Giant Slalom, LW5/7, Men","Giant Slalom, LW5/7, Men",Alpine Skiing,29,False,Winter,False,Men
+885,"Sailing,3-10 Ton, Open","3-10 Ton, Open",Sailing,17,False,Summer,True,Open
+886,"Athletics,3 miles, Team, Men","3 miles, Team, Men",Athletics,1,False,Summer,True,Men
+887,"Korfball,Korfball, Mixed","Korfball, Mixed",Korfball,94,False,Summer,True,Mixed
+888,"Sailing,12 foot, Open","12 foot, Open",Sailing,17,False,Summer,True,Open
+889,"Sailing,6.5 metres, Open","6.5 metres, Open",Sailing,17,False,Summer,True,Open
+890,"Kaatsen,Kaatsen, Men","Kaatsen, Men",Kaatsen,95,False,Summer,True,Men
+891,"Athletics,5,000 metres, Team, Men","5,000 metres, Team, Men",Athletics,1,False,Summer,True,Men
+892,"Athletics,100 metres, Professionals, Men","100 metres, Professionals, Men",Athletics,1,False,Summer,False,Men
+893,"Athletics,1,500 metres, Professionals, Handicap, Men","1,500 metres, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+894,"Cricket,Cricket, Men","Cricket, Men",Cricket,96,False,Summer,True,Men
+895,"Firefighting,Maneuvering, International, British Firefighters, Men","Maneuvering, International, British Firefighters, Men",Firefighting,91,True,Summer,True,Men
+896,"Golf,Individual, Handicap, Men","Individual, Handicap, Men",Golf,21,False,Summer,False,Men
+897,"Sailing,10-20 Ton, Open","10-20 Ton, Open",Sailing,17,False,Summer,True,Open
+898,"Sailing,20+ Ton, Open","20+ Ton, Open",Sailing,17,False,Summer,True,Open
+899,"Tennis,Singles, Professionals, Men","Singles, Professionals, Men",Tennis,8,False,Summer,False,Men
+900,"Tennis,Doubles, Professionals, Handicap, Men","Doubles, Professionals, Handicap, Men",Tennis,8,False,Summer,True,Men
+901,"Athletics,120 yards Hurdles, Men","120 yards Hurdles, Men",Athletics,1,False,Summer,False,Men
+902,"Athletics,2,590 metres Steeplechase, Men","2,590 metres Steeplechase, Men",Athletics,1,False,Summer,False,Men
+903,"Athletics,Stone Throw, Men","Stone Throw, Men",Athletics,1,False,Summer,False,Men
+904,"Athletics,All-Around Championship, Men","All-Around Championship, Men",Athletics,1,False,Summer,False,Men
+905,"Fencing,Foil, Individual, Boys","Foil, Individual, Boys",Fencing,11,False,Summer,False,Boys
+906,"Archery,Double York Round, Men","Double York Round, Men",Archery,20,False,Summer,False,Men
+907,"Archery,Continental Style, Men","Continental Style, Men",Archery,20,False,Summer,False,Men
+908,"Archery,Double National Round, Women","Double National Round, Women",Archery,20,False,Summer,False,Women
+909,"Jeu De Paume,Singles, Men","Singles, Men",Jeu De Paume,97,False,Summer,False,Men
+910,"Motorboating,A-Class (Open), Open","A-Class (Open), Open",Motorboating,98,False,Summer,True,Open
+911,"Motorboating,B-Class (Under 60 feet), Open","B-Class (Under 60 feet), Open",Motorboating,98,False,Summer,True,Open
+912,"Motorboating,C-Class, Open","C-Class, Open",Motorboating,98,False,Summer,True,Open
+913,"Racquets,Singles, Men","Singles, Men",Racquets,99,False,Summer,False,Men
+914,"Racquets,Doubles, Men","Doubles, Men",Racquets,99,False,Summer,True,Men
+915,"Shooting,Small-Bore Rifle, 50 and 100 yards, Team, Men","Small-Bore Rifle, 50 and 100 yards, Team, Men",Shooting,5,False,Summer,True,Men
+916,"Sailing,18 foot, Open","18 foot, Open",Sailing,17,False,Summer,True,Open
+917,"Athletics,High Jump, Professionals, Handicap, Men","High Jump, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+918,"Athletics,Long Jump, Professionals, Handicap, Men","Long Jump, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+919,"Athletics,Shot Put, Professionals, Handicap, Men","Shot Put, Professionals, Handicap, Men",Athletics,1,False,Summer,False,Men
+920,"Lifesaving,Rapid Removal of a Manikin from Long Distance, Men","Rapid Removal of a Manikin from Long Distance, Men",Lifesaving,100,False,Summer,False,Men
+921,"Cycling Track,¼ mile, Men","¼ mile, Men",Cycling Track,10,False,Summer,False,Men
+922,"Cycling Track,1 mile, Novice, Men","1 mile, Novice, Men",Cycling Track,10,False,Summer,False,Men
+923,"Archery,French Championship, Individual, Men","French Championship, Individual, Men",Archery,20,False,Summer,False,Men
+924,"Archery,Crossbows, Large Arrows - 35 metres, Individual, Men","Crossbows, Large Arrows - 35 metres, Individual, Men",Archery,20,False,Summer,False,Men
+925,"Archery,Crossbows, Arrows - 28 metres, Individual, Men","Crossbows, Arrows - 28 metres, Individual, Men",Archery,20,False,Summer,False,Men
+926,"Archery,Crossbows, Small Arrows - 20 metres, Individual, Men","Crossbows, Small Arrows - 20 metres, Individual, Men",Archery,20,False,Summer,False,Men
+927,"Archery,Crossbows, French Championship, Men","Crossbows, French Championship, Men",Archery,20,False,Summer,False,Men
+928,"Artistic Gymnastics,26th Federal Festival, Society and Association Contests, Non-Simultaneous, National Championships, Men","26th Federal Festival, Society and Association Contests, Non-Simultaneous, National Championships, Men",Artistic Gymnastics,9,False,Summer,False,Men
+929,"Artistic Gymnastics,26th Federal Festival, Society and Association Contests, Non-Simultaneous, Olympic Championships, Individual, Men","26th Federal Festival, Society and Association Contests, Non-Simultaneous, Olympic Championships, Individual, Men",Artistic Gymnastics,9,False,Summer,False,Men
+930,"Artistic Gymnastics,26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Youth, Men","26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Youth, Men",Artistic Gymnastics,9,False,Summer,True,Men
+931,"Artistic Gymnastics,26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Men","26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Men",Artistic Gymnastics,9,False,Summer,True,Men
+932,"Artistic Gymnastics,Festival for Societies of the Seine, Instructors, Men","Festival for Societies of the Seine, Instructors, Men",Artistic Gymnastics,9,False,Summer,True,Men
+933,"Artistic Gymnastics,Festival for Societies of the Seine, Advanced, Men","Festival for Societies of the Seine, Advanced, Men",Artistic Gymnastics,9,False,Summer,False,Men
+934,"Artistic Gymnastics,Festival for Societies of the Seine, Swimming, Individual, Men","Festival for Societies of the Seine, Swimming, Individual, Men",Artistic Gymnastics,9,False,Summer,True,Men
+935,"Artistic Gymnastics,Festival for Societies of the Seine, Individual, Men","Festival for Societies of the Seine, Individual, Men",Artistic Gymnastics,9,False,Summer,False,Men
+936,"Artistic Gymnastics,Festival for Societies of the Seine, Artistic, Individual, Men","Festival for Societies of the Seine, Artistic, Individual, Men",Artistic Gymnastics,9,False,Summer,False,Men
+937,"Artistic Gymnastics,Festival for Societies of the Seine, Olympic Competition, Individual, Men","Festival for Societies of the Seine, Olympic Competition, Individual, Men",Artistic Gymnastics,9,False,Summer,False,Men
+938,"Artistic Gymnastics,Festival for Societies of the Seine, Individual (#2), Men","Festival for Societies of the Seine, Individual (#2), Men",Artistic Gymnastics,9,False,Summer,False,Men
+939,"Artistic Gymnastics,Festival for Societies of the Seine, Swimming, students, individuals, societies, Men","Festival for Societies of the Seine, Swimming, students, individuals, societies, Men",Artistic Gymnastics,9,False,Summer,False,Men
+940,"Artistic Gymnastics,26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Women","26th Federal Festival, Society and Association Contests, Non-Simultaneous, Shooting Championships, Honorary Members and Associates, Women",Artistic Gymnastics,9,False,Summer,True,Women
+941,"Athletics,High Jump, Professionals, Men","High Jump, Professionals, Men",Athletics,1,False,Summer,False,Men
+942,"Athletics,Long Jump, Professionals, Men","Long Jump, Professionals, Men",Athletics,1,False,Summer,False,Men
+943,"Athletics,Shot Put, Professionals, Men","Shot Put, Professionals, Men",Athletics,1,False,Summer,False,Men
+944,"Automobile Racing,Paris-Toulouse-Paris, Voiturettes, Men","Paris-Toulouse-Paris, Voiturettes, Men",Automobile Racing,74,False,Summer,False,Men
+945,"Ballooning,Longest distance travelled (#1), Handicap, Open","Longest distance travelled (#1), Handicap, Open",Ballooning,101,False,Summer,False,Open
+946,"Ballooning,Longest distance travelled (#2), Handicap, Open","Longest distance travelled (#2), Handicap, Open",Ballooning,101,False,Summer,False,Open
+947,"Ballooning,Longest distance travelled (#3), Open","Longest distance travelled (#3), Open",Ballooning,101,False,Summer,False,Open
+948,"Ballooning,Longest distance travelled (#4), Second Degree, Open","Longest distance travelled (#4), Second Degree, Open",Ballooning,101,False,Summer,True,Open
+949,"Ballooning,Longest time travelled (#1), Handicap, Open","Longest time travelled (#1), Handicap, Open",Ballooning,101,False,Summer,True,Open
+950,"Ballooning,Longest time travelled (#2), Handicap, Open","Longest time travelled (#2), Handicap, Open",Ballooning,101,False,Summer,True,Open
+951,"Ballooning,Longest time travelled (#3), Open","Longest time travelled (#3), Open",Ballooning,101,False,Summer,False,Open
+952,"Ballooning,Longest time travelled (#4), Second Degree, Open","Longest time travelled (#4), Second Degree, Open",Ballooning,101,False,Summer,True,Open
+953,"Ballooning,Greatest height achieved (#1), Handicap, Open","Greatest height achieved (#1), Handicap, Open",Ballooning,101,False,Summer,False,Open
+954,"Ballooning,Greatest height achieved (#2), Handicap, Open","Greatest height achieved (#2), Handicap, Open",Ballooning,101,False,Summer,False,Open
+955,"Ballooning,Greatest height achieved (#3), Open","Greatest height achieved (#3), Open",Ballooning,101,False,Summer,True,Open
+956,"Ballooning,Closest landing to target (#1), Open","Closest landing to target (#1), Open",Ballooning,101,False,Summer,False,Open
+957,"Ballooning,Closest landing to target (#2), Open","Closest landing to target (#2), Open",Ballooning,101,False,Summer,False,Open
+958,"Ballooning,Closest landing to target (#3), Combined, Open","Closest landing to target (#3), Combined, Open",Ballooning,101,False,Summer,False,Open
+959,"Ballooning,Closest landing to target (#3), Intermediate stop, Open","Closest landing to target (#3), Intermediate stop, Open",Ballooning,101,False,Summer,False,Open
+960,"Ballooning,Closest landing to target (#3), Final stop, Open","Closest landing to target (#3), Final stop, Open",Ballooning,101,False,Summer,False,Open
+961,"Ballooning,Closest landing to target (#4), Self-selected target, Open","Closest landing to target (#4), Self-selected target, Open",Ballooning,101,False,Summer,False,Open
+962,"Ballooning,Grand Prix de l'aéronautique, Open","Grand Prix de l'aéronautique, Open",Ballooning,101,False,Summer,False,Open
+963,"Ballooning,Balloon inflation, Open","Balloon inflation, Open",Ballooning,101,False,Summer,False,Open
+964,"Ballooning,Ascension report, Single ascent, Open","Ascension report, Single ascent, Open",Ballooning,101,False,Summer,False,Open
+965,"Ballooning,Ascension report, Combined, Open","Ascension report, Combined, Open",Ballooning,101,False,Summer,False,Open
+966,"Ballooning,Best photograph, 9 September event, Open","Best photograph, 9 September event, Open",Ballooning,101,False,Summer,False,Open
+967,"Ballooning,Best photograph, All events, Open","Best photograph, All events, Open",Ballooning,101,False,Summer,False,Open
+968,"Ballooning,Kites (large), Open","Kites (large), Open",Ballooning,101,False,Summer,False,Open
+969,"Ballooning,Kites (medium), Open","Kites (medium), Open",Ballooning,101,False,Summer,False,Open
+970,"Ballooning,Kites (small), Open","Kites (small), Open",Ballooning,101,False,Summer,False,Open
+971,"Basque pelota,Two-Man Teams With Cesta, Professional, Men","Two-Man Teams With Cesta, Professional, Men",Basque pelota,71,False,Summer,True,Men
+972,"Boules,Jeu lyonnais, Quartets, Men","Jeu lyonnais, Quartets, Men",Boules,102,False,Summer,True,Men
+973,"Boules,Jeu de berges, Quartets, Men","Jeu de berges, Quartets, Men",Boules,102,False,Summer,True,Men
+974,"Croquet,Singles, Two Balls, Handicap, Men","Singles, Two Balls, Handicap, Men",Croquet,103,False,Summer,False,Men
+975,"Croquet,Singles, One Ball, Open","Singles, One Ball, Open",Croquet,103,False,Summer,False,Open
+976,"Croquet,Singles, Two Balls, Open","Singles, Two Balls, Open",Croquet,103,False,Summer,False,Open
+977,"Croquet,Doubles, Open","Doubles, Open",Croquet,103,False,Summer,True,Open
+978,"Cycling Track,25 kilometres Motor-paced, Professionals, Men","25 kilometres Motor-paced, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+979,"Cycling Track,National Team Sprint, Professionals, Men","National Team Sprint, Professionals, Men",Cycling Track,10,False,Summer,True,Men
+980,"Fishing,Concours d'honneur, Men","Concours d'honneur, Men",Fishing,104,False,Summer,False,Men
+981,"Golf,Individual, Professional, Men","Individual, Professional, Men",Golf,21,False,Summer,False,Men
+982,"Lifesaving,300 metres with Current Rise of 50 metres with Manikin, Men","300 metres with Current Rise of 50 metres with Manikin, Men",Lifesaving,100,False,Summer,False,Men
+983,"Lifesaving,200 metres in Swim Outfit with Current Rise of 50 metres with Manikin, Men","200 metres in Swim Outfit with Current Rise of 50 metres with Manikin, Men",Lifesaving,100,False,Summer,False,Men
+984,"Lifesaving,Rapid Removal of a Manikin from Middle Distance, Men","Rapid Removal of a Manikin from Middle Distance, Men",Lifesaving,100,False,Summer,False,Men
+985,"Lifesaving,Retrieval by Hook, Men","Retrieval by Hook, Men",Lifesaving,100,False,Summer,True,Men
+986,"Lifesaving,Sculling, Amateurs, Men","Sculling, Amateurs, Men",Lifesaving,100,False,Summer,False,Men
+987,"Longue Paume,Partie à enlever, Men","Partie à enlever, Men",Longue Paume,105,False,Summer,True,Men
+988,"Longue Paume,Partie à terrer, Men","Partie à terrer, Men",Longue Paume,105,False,Summer,True,Men
+989,"Military Exercise,Overall, Men","Overall, Men",Military Exercise,106,False,Summer,True,Men
+990,"Military Exercise,Preparatory Military Training, Group A, Men","Preparatory Military Training, Group A, Men",Military Exercise,106,False,Summer,True,Men
+991,"Military Exercise,Preparatory Military Training, Group B, Men","Preparatory Military Training, Group B, Men",Military Exercise,106,False,Summer,True,Men
+992,"Military Exercise,Preparatory Military Training, Group C, Men","Preparatory Military Training, Group C, Men",Military Exercise,106,False,Summer,True,Men
+993,"Military Exercise,Preparatory Military Training, Group D, Men","Preparatory Military Training, Group D, Men",Military Exercise,106,False,Summer,True,Men
+994,"Military Exercise,Complementary Military Training, Men","Complementary Military Training, Men",Military Exercise,106,False,Summer,True,Men
+995,"Military Exercise,Free Exercise, Group A, Men","Free Exercise, Group A, Men",Military Exercise,106,False,Summer,True,Men
+996,"Military Exercise,Free Exercise, Group B, Men","Free Exercise, Group B, Men",Military Exercise,106,False,Summer,True,Men
+997,"Military Exercise,Free Exercise, Group C, Men","Free Exercise, Group C, Men",Military Exercise,106,False,Summer,True,Men
+998,"Motorboating,Speed, < 6.5 m, Men","Speed, < 6.5 m, Men",Motorboating,98,False,Summer,False,Men
+999,"Motorboating,Speed, 6.5-8 m, Men","Speed, 6.5-8 m, Men",Motorboating,98,False,Summer,False,Men
+1000,"Motorboating,Speed, 8-10 m, Men","Speed, 8-10 m, Men",Motorboating,98,False,Summer,False,Men
+1001,"Motorboating,Speed, 10-15 m, Men","Speed, 10-15 m, Men",Motorboating,98,False,Summer,False,Men
+1002,"Motorboating,Endurance, <6.5 m, Men","Endurance, <6.5 m, Men",Motorboating,98,False,Summer,False,Men
+1003,"Motorboating,Endurance, 6.5-8 m, Men","Endurance, 6.5-8 m, Men",Motorboating,98,False,Summer,False,Men
+1004,"Motorboating,Enduance, 8-10 m, Men","Enduance, 8-10 m, Men",Motorboating,98,False,Summer,False,Men
+1005,"Motorboating,Endurance 10-15 m, Men","Endurance 10-15 m, Men",Motorboating,98,False,Summer,False,Men
+1006,"Motorcycle Sports,Paris-Toulouse-Paris, Motorcycles, Men","Paris-Toulouse-Paris, Motorcycles, Men",Motorcycle Sports,107,False,Summer,False,Men
+1007,"Rowing,Single Pleasure Boat, Men","Single Pleasure Boat, Men",Rowing,7,False,Summer,False,Men
+1008,"Rowing,French Skiffs, Coxed Pairs, Men","French Skiffs, Coxed Pairs, Men",Rowing,7,False,Summer,True,Men
+1009,"Rowing,French Skiffs, Coxless Fours, Men","French Skiffs, Coxless Fours, Men",Rowing,7,False,Summer,True,Men
+1010,"Rowing,Coxless Fours, Outriggers, Men","Coxless Fours, Outriggers, Men",Rowing,7,False,Summer,True,Men
+1011,"Rowing,Lightweight Coxless Pairs, Mixed","Lightweight Coxless Pairs, Mixed",Rowing,7,False,Summer,True,Mixed
+1012,"Sailing,0-½ Ton, Open","0-½ Ton, Open",Sailing,17,False,Summer,True,Open
+1013,"Sailing,2-3 Ton, Open","2-3 Ton, Open",Sailing,17,False,Summer,True,Open
+1014,"Basque pelota,Mano, Triples, Men","Mano, Triples, Men",Basque pelota,71,False,Summer,True,Men
+1015,"Basque pelota,Blé, Triples, Men","Blé, Triples, Men",Basque pelota,71,False,Summer,True,Men
+1016,"Basque pelota,Pala, Doubles, Men","Pala, Doubles, Men",Basque pelota,71,False,Summer,True,Men
+1017,"Basque pelota,Cesta Punta, Triples, Men","Cesta Punta, Triples, Men",Basque pelota,71,False,Summer,True,Men
+1018,"Canne De Combat,Canne de combat, Men","Canne de combat, Men",Canne De Combat,108,True,Summer,False,Men
+1019,"Basque pelota,Two-Man Teams With Cesta, Men","Two-Man Teams With Cesta, Men",Basque pelota,71,False,Summer,True,Men
+1020,"Skijoring,Ski Joring, Men","Ski Joring, Men",Skijoring,109,False,Winter,False,Men
+1021,"Aeronautics,Aeronautics, Open","Aeronautics, Open",Aeronautics,110,False,Summer,False,Open
+1022,"Sailing,30 metres², Open","30 metres², Open",Sailing,17,False,Summer,True,Open
+1023,"Sailing,40 metres², Open","40 metres², Open",Sailing,17,False,Summer,True,Open
+1024,"Athletics,Special Scratch Pole Vault #1, Men","Special Scratch Pole Vault #1, Men",Athletics,1,False,Summer,False,Men
+1025,"Athletics,Special Scratch Pole Vault #2, Men","Special Scratch Pole Vault #2, Men",Athletics,1,False,Summer,False,Men
+1026,"Firefighting,Maneuvering, International, Professional Firefighters, Men","Maneuvering, International, Professional Firefighters, Men",Firefighting,91,True,Summer,True,Men
+1027,"American Football,American Football, Men","American Football, Men",American Football,111,False,Summer,True,Men
+1028,"Archery,Double American Round, Men","Double American Round, Men",Archery,20,False,Summer,False,Men
+1029,"Archery,Team Round, Men","Team Round, Men",Archery,20,False,Summer,True,Men
+1030,"Archery,Flight Shooting, Men","Flight Shooting, Men",Archery,20,False,Summer,False,Men
+1031,"Archery,Double Columbia Round, Women","Double Columbia Round, Women",Archery,20,False,Summer,False,Women
+1032,"Archery,Team Round, Women","Team Round, Women",Archery,20,False,Summer,True,Women
+1033,"Archery,Flight Shooting, Women","Flight Shooting, Women",Archery,20,False,Summer,False,Women
+1034,"Artistic Gymnastics,Individual All-Around, 4 Events, Men","Individual All-Around, 4 Events, Men",Artistic Gymnastics,9,False,Summer,False,Men
+1035,"Athletics,50 yards, Boys","50 yards, Boys",Athletics,1,False,Summer,False,Boys
+1036,"Athletics,100 yards, Boys","100 yards, Boys",Athletics,1,False,Summer,False,Boys
+1037,"Athletics,220 yards, Boys","220 yards, Boys",Athletics,1,False,Summer,False,Boys
+1038,"Athletics,440 yards, Boys","440 yards, Boys",Athletics,1,False,Summer,False,Boys
+1039,"Athletics,880 yards, Boys","880 yards, Boys",Athletics,1,False,Summer,False,Boys
+1040,"Athletics,1 mile, Boys","1 mile, Boys",Athletics,1,False,Summer,False,Boys
+1041,"Athletics,2 miles, Boys","2 miles, Boys",Athletics,1,False,Summer,False,Boys
+1042,"Athletics,5 miles, Boys","5 miles, Boys",Athletics,1,False,Summer,False,Boys
+1043,"Athletics,120 yards Hurdles, Boys","120 yards Hurdles, Boys",Athletics,1,False,Summer,False,Boys
+1044,"Athletics,220 yards Hurdles, Boys","220 yards Hurdles, Boys",Athletics,1,False,Summer,False,Boys
+1045,"Athletics,4 × 440 yards Relay, Boys","4 × 440 yards Relay, Boys",Athletics,1,False,Summer,True,Boys
+1046,"Athletics,High Jump, Boys","High Jump, Boys",Athletics,1,False,Summer,False,Boys
+1047,"Athletics,Pole Vault, Boys","Pole Vault, Boys",Athletics,1,False,Summer,False,Boys
+1048,"Athletics,Long Jump, Boys","Long Jump, Boys",Athletics,1,False,Summer,False,Boys
+1049,"Athletics,Shot Put, Boys","Shot Put, Boys",Athletics,1,False,Summer,False,Boys
+1050,"Athletics,Discus Throw, Boys","Discus Throw, Boys",Athletics,1,False,Summer,False,Boys
+1051,"Athletics,Hammer Throw, Boys","Hammer Throw, Boys",Athletics,1,False,Summer,False,Boys
+1052,"Athletics,56-pound Weight Throw, Boys","56-pound Weight Throw, Boys",Athletics,1,False,Summer,False,Boys
+1053,"Athletics,100 yards, Men","100 yards, Men",Athletics,1,False,Summer,False,Men
+1054,"Athletics,220 yards, Men","220 yards, Men",Athletics,1,False,Summer,False,Men
+1055,"Athletics,440 yards, Men","440 yards, Men",Athletics,1,False,Summer,False,Men
+1056,"Athletics,880 yards, Men","880 yards, Men",Athletics,1,False,Summer,False,Men
+1057,"Athletics,2 miles, Men","2 miles, Men",Athletics,1,False,Summer,False,Men
+1058,"Athletics,220 yards Hurdles, Men","220 yards Hurdles, Men",Athletics,1,False,Summer,False,Men
+1059,"Athletics,4 miles, Team, Men","4 miles, Team, Men",Athletics,1,False,Summer,True,Men
+1060,"Athletics,Baseball Throw, Men","Baseball Throw, Men",Athletics,1,False,Summer,False,Men
+1061,"Athletics,Ball Throw for Accuracy, Men","Ball Throw for Accuracy, Men",Athletics,1,False,Summer,False,Men
+1062,"Athletics,60 yards, Handicap, Men","60 yards, Handicap, Men",Athletics,1,False,Summer,False,Men
+1063,"Athletics,2 miles, Handicap, Men","2 miles, Handicap, Men",Athletics,1,False,Summer,False,Men
+1064,"Athletics,220 yards Hurdles, Handicap, Men","220 yards Hurdles, Handicap, Men",Athletics,1,False,Summer,False,Men
+1065,"Athletics,1 mile, Team, Handicap, Men","1 mile, Team, Handicap, Men",Athletics,1,False,Summer,True,Men
+1066,"Athletics,Hammer Throw, Handicap, Men","Hammer Throw, Handicap, Men",Athletics,1,False,Summer,False,Men
+1067,"Cycling Track,⅓ mile, Men","⅓ mile, Men",Cycling Track,10,False,Summer,False,Men
+1068,"Cycling Track,½ mile, Men","½ mile, Men",Cycling Track,10,False,Summer,False,Men
+1069,"Cycling Track,1 mile, Men","1 mile, Men",Cycling Track,10,False,Summer,False,Men
+1070,"Cycling Track,1 mile, Motorcycle, Men","1 mile, Motorcycle, Men",Cycling Track,10,False,Summer,False,Men
+1071,"Cycling Track,2 miles, Men","2 miles, Men",Cycling Track,10,False,Summer,False,Men
+1072,"Cycling Track,5 miles, Men","5 miles, Men",Cycling Track,10,False,Summer,False,Men
+1073,"Cycling Track,25 miles, Men","25 miles, Men",Cycling Track,10,False,Summer,False,Men
+1074,"Cycling Track,½ mile, Handicap, Men","½ mile, Handicap, Men",Cycling Track,10,False,Summer,False,Men
+1075,"Cycling Track,1 mile, Handicap, Men","1 mile, Handicap, Men",Cycling Track,10,False,Summer,False,Men
+1076,"Cycling Track,5 miles, Handicap, Men","5 miles, Handicap, Men",Cycling Track,10,False,Summer,False,Men
+1077,"Cycling Track,½ mile, Professionals, Men","½ mile, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+1078,"Cycling Track,⅔ mile, Professionals, Men","⅔ mile, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+1079,"Cycling Track,½ mile, Handicap, Professionals, Men","½ mile, Handicap, Professionals, Men",Cycling Track,10,False,Summer,False,Men
+1080,"Fencing,Single Sticks, Individual, Men","Single Sticks, Individual, Men",Fencing,11,False,Summer,False,Men
+1081,"Golf,Driving Contest, Men","Driving Contest, Men",Golf,21,False,Summer,False,Men
+1082,"Golf,Putting Contest, Men","Putting Contest, Men",Golf,21,False,Summer,False,Men
+1083,"Golf,Team, Men","Team, Men",Golf,21,False,Summer,True,Men
+1084,"Roque,Singles, Men","Singles, Men",Roque,112,False,Summer,False,Men
+1085,"Rowing,Double Sculls, Intermediate, Men","Double Sculls, Intermediate, Men",Rowing,7,False,Summer,True,Men
+1086,"Rowing,Coxless Pairs, Intermediate, Men","Coxless Pairs, Intermediate, Men",Rowing,7,False,Summer,True,Men
+1087,"Rowing,Coxless Fours, Intermediate, Men","Coxless Fours, Intermediate, Men",Rowing,7,False,Summer,True,Men
+1088,"Rowing,Eights, Intermediate, Men","Eights, Intermediate, Men",Rowing,7,False,Summer,True,Men
+1089,"Swimming,Plunge For Distance, Men","Plunge For Distance, Men",Swimming,6,False,Summer,False,Men
+1090,"Swimming,100 yards, Handicap, Men","100 yards, Handicap, Men",Swimming,6,False,Summer,False,Men
+1091,"Swimming,220 yards, Handicap, Men","220 yards, Handicap, Men",Swimming,6,False,Summer,False,Men
+1092,"Swimming,1 mile, Handicap, Men","1 mile, Handicap, Men",Swimming,6,False,Summer,False,Men
+1093,"Tennis,Singles, Boys","Singles, Boys",Tennis,8,False,Summer,False,Boys
+1094,"Weightlifting,All-Around Dumbbell Contest, Men","All-Around Dumbbell Contest, Men",Weightlifting,18,True,Summer,False,Men
